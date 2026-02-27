@@ -31,9 +31,9 @@ These checks confirm that the cleaned dataset is stable, consistent, and suitabl
 ``` ecommerce-bigquery-cleaning/
 │
 ├── data/
-│   ├── raw_sheet1.csv
-│   ├── raw_sheet2.csv
-│   ├── raw_sheet3.csv
+│   ├── power_query_relay_dataset1.csv
+│   ├── power_query_relay_dataset2.csv
+│   ├── power_query_relay_dataset3.csv
 │   └── cleaned_orders.csv
 │
 ├── sql/

@@ -25,3 +25,31 @@ A brief exploratory analysis was performed on the cleaned dataset to validate da
 - Order status distribution highlights a realistic mix of Completed, Pending, Cancelled, and Refunded transactions.
 These checks confirm that the cleaned dataset is stable, consistent, and suitable for downstream analytics.
 
+
+## Repository Structure
+
+``` ecommerce-bigquery-cleaning/
+│
+├── data/
+│   ├── raw_sheet1.csv
+│   ├── raw_sheet2.csv
+│   ├── raw_sheet3.csv
+│   └── cleaned_orders.csv
+│
+├── sql/
+│   ├── 01_combine_tables.sql
+│   ├── 02_standardize_columns.sql
+│   ├── 03_clean_types.sql
+│   ├── 04_clean_emails.sql
+│   ├── 05_clean_country.sql
+│   ├── 06_clean_status.sql
+│   ├── 07_remove_duplicates.sql
+│   └── 08_export.sql
+│
+├── docs/
+│   ├── README.md
+│   ├── data_dictionary.md
+│   └── cleaning_log.md
+│
+└── notebooks/
+    └── bigquery_analysis.ipynb ```

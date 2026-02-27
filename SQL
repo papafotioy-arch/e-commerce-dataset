@@ -1,0 +1,180 @@
+SQL QUERIES
+
+01_combine_tables.sql
+
+CREATE OR REPLACE TABLE staging.orders_raw AS
+SELECT *, 'sheet1' AS source_sheet 
+FROM relay_dataset.relay_dataset1
+UNION ALL
+SELECT *, 'sheet2' AS source_sheet 
+FROM relay_dataset.relay_dataset2
+UNION ALL
+SELECT *, 'sheet3' AS source_sheet 
+FROM relay_dataset.relay_dataset3;
+
+02_standardize_columns.sql
+
+CREATE OR REPLACE TABLE staging.orders_standardized AS
+SELECT
+  order_id,
+  customer_name,
+  email,
+  order_date,
+  product,
+  category,
+  price,
+  quantity,
+  country,
+  sales_channel,
+  payment_type,
+  order_status,
+  discount_applied,
+  customer_age,
+  newsletter_signup,
+  source_sheet
+FROM staging.orders_raw;
+
+03_clean_types.sql
+
+CREATE OR REPLACE TABLE staging.orders_typed AS
+SELECT
+  order_id,
+  customer_name,
+  email,
+
+  -- Fix date formats (handles yyyy-mm-dd and yyyy.mm.dd)
+  SAFE.PARSE_DATE('%Y-%m-%d', REPLACE(order_date, '.', '-')) AS order_date,
+
+  product,
+  category,
+
+  -- Remove Â£, £, commas, spaces, and any non-numeric characters
+  SAFE_CAST(
+    REGEXP_REPLACE(price, r'[^0-9\.]', '')
+    AS FLOAT64
+  ) AS price,
+
+  SAFE_CAST(quantity AS INT64) AS quantity,
+  SAFE_CAST(customer_age AS INT64) AS customer_age,
+
+  country,
+  sales_channel,
+  payment_type,
+  order_status,
+  discount_applied,
+  newsletter_signup,
+  source_sheet
+FROM staging.orders_standardized;
+
+
+04_clean_text.sql
+
+
+CREATE OR REPLACE TABLE staging.orders_text_clean AS
+SELECT
+  order_id,
+  TRIM(REGEXP_REPLACE(customer_name, r'\s+', ' ')) AS customer_name,
+  TRIM(REGEXP_REPLACE(email, r'\s+', ' ')) AS email,
+  order_date,
+  TRIM(REGEXP_REPLACE(product, r'\s+', ' ')) AS product,
+  TRIM(REGEXP_REPLACE(category, r'\s+', ' ')) AS category,
+  price,
+  quantity,
+  TRIM(REGEXP_REPLACE(country, r'\s+', ' ')) AS country,
+  TRIM(REGEXP_REPLACE(sales_channel, r'\s+', ' ')) AS sales_channel,
+  TRIM(REGEXP_REPLACE(payment_type, r'\s+', ' ')) AS payment_type,
+  TRIM(REGEXP_REPLACE(order_status, r'\s+', ' ')) AS order_status,
+  TRIM(REGEXP_REPLACE(discount_applied, r'\s+', ' ')) AS discount_applied,
+  customer_age,
+  TRIM(REGEXP_REPLACE(newsletter_signup, r'\s+', ' ')) AS newsletter_signup,
+  source_sheet
+FROM staging.orders_typed;
+
+
+05_clean_emails.sql
+
+CREATE OR REPLACE TABLE staging.orders_email_clean AS
+SELECT
+  *,
+  REGEXP_REPLACE(email, r'\s+', '') AS email_no_spaces,
+  REGEXP_REPLACE(email, r'@@', '@') AS email_fixed,
+  REGEXP_CONTAINS(email, r'^[^@]+@[^@]+\.[^@]+$') AS email_valid
+FROM staging.orders_typed;
+
+06_clean_country.sql
+
+CREATE OR REPLACE TABLE staging.orders_country_clean AS
+SELECT
+  *,
+  CASE
+    WHEN UPPER(country) IN ('GB', 'U.K.', 'UNITED KINGDOM', 'UK') THEN 'UK'
+    ELSE country
+  END AS country_clean
+FROM staging.orders_email_clean;
+
+
+07_clean_status.sql
+
+CREATE OR REPLACE TABLE staging.orders_status_clean AS
+SELECT
+  *,
+  INITCAP(order_status) AS order_status_clean,
+  INITCAP(sales_channel) AS sales_channel_clean
+FROM staging.orders_country_clean;
+
+
+08_remove_duplicates.sql
+
+CREATE OR REPLACE TABLE cleaned.orders_final AS
+SELECT DISTINCT
+  order_id,
+  customer_name,
+  email_fixed AS email,
+  order_date,
+  product,
+  category,
+  price,
+  quantity,
+  country_clean AS country,
+  sales_channel_clean AS sales_channel,
+  payment_type,
+  order_status_clean AS order_status,
+  discount_applied,
+  customer_age,
+  newsletter_signup,
+  email_valid,
+  source_sheet
+FROM staging.orders_status_clean;
+
+09_product_category_fix.sql
+
+CREATE OR REPLACE TABLE staging.orders_product_category_clean AS
+SELECT
+  *,
+  CASE
+    -- Correct known mis-categorised products
+    WHEN LOWER(product) = 'iphone 14' THEN 'Electronics'
+    WHEN LOWER(product) = 'samsung tv 55"' THEN 'Electronics'
+    WHEN LOWER(product) = 'nike running shoes' THEN 'Sportswear'
+    WHEN LOWER(product) = 'dyson v11 vacuum' THEN 'Home Appliances'
+
+    -- Add more corrections here
+    ELSE INITCAP(TRIM(category))
+  END AS category_clean,
+
+  INITCAP(TRIM(product)) AS product_clean
+FROM staging.orders_text_clean;
+
+
+10_export.sql
+
+EXPORT DATA OPTIONS(
+  uri='gs://your-bucket-name/cleaned_orders.csv',
+  format='CSV',
+  overwrite=true,
+  header=true
+)
+AS
+SELECT *
+FROM cleaned.orders_final;
+

@@ -1,4 +1,32 @@
 # ecommerce-bigquery-cleaning
+
+ecommerce-bigquery-cleaning/
+│
+├── data/
+│   ├── raw_sheet1.csv
+│   ├── raw_sheet2.csv
+│   ├── raw_sheet3.csv
+│   └── cleaned_orders.csv
+│
+├── sql/
+│   ├── 01_combine_tables.sql
+│   ├── 02_standardize_columns.sql
+│   ├── 03_clean_types.sql
+│   ├── 04_clean_emails.sql
+│   ├── 05_clean_country.sql
+│   ├── 06_clean_status.sql
+│   ├── 07_remove_duplicates.sql
+│   └── 08_export.sql
+│
+├── docs/
+│   ├── README.md
+│   ├── data_dictionary.md
+│   └── cleaning_log.md
+│
+└── notebooks/
+    └── bigquery_analysis.ipynb
+
+
 BigQuery pipeline that merges and cleans three raw e‑commerce sheets using modular SQL. Covers type casting, normalization, email and country cleaning, and deduplication. Includes a short exploratory analysis highlighting order patterns and channel insights
 # Project Overview
 This project showcases an end‑to‑end data‑cleaning workflow using Google BigQuery to transform three raw e‑commerce order sheets into a unified, analysis‑ready dataset. The raw files contain realistic data issues such as inconsistent formatting, invalid emails, mixed date formats, currency symbols, negative values, and duplicate records. The goal is to demonstrate a clear, reproducible, and well‑documented SQL pipeline suitable for analytics, KPI reporting, and BI dashboards.

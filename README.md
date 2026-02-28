@@ -164,7 +164,7 @@ e-commerce-dataset/
 │   ├── power_query_relay_dataset1.csv
 │   ├── power_query_relay_dataset2.csv
 │   ├── power_query_relay_dataset3.csv
-│   └── cleaned_orders.csv
+│   └── cleaned_data.csv
 │
 ├── sql/
 │   ├── 01_combine_tables.sql

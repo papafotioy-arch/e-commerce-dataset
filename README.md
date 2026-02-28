@@ -175,7 +175,7 @@ e-commerce-dataset/
 │   ├── 06_clean_status.sql
 │   ├── 07_product_category_fix.sql
 │   ├── 08_remove_duplicates.sql
-│   └── 08_export
+│   └── 09_export
 │
 ├── docs/
 │   ├── README.md

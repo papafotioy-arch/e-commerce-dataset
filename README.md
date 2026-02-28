@@ -1,12 +1,3 @@
-Here is a **fully rewritten, unified, GitHub‑ready README** that merges:
-
-- **Yesterday’s BigQuery cleaning project description**, and  
-- **Today’s full analytical findings from the cleaned dataset**  
-
-The result is a polished, end‑to‑end case study suitable for a professional portfolio.
-
----
-
 # **E‑Commerce Data Cleaning & Analytics Pipeline (BigQuery + Power BI)**
 
 This project delivers a complete data‑engineering and analytics workflow for a multi‑sheet e‑commerce dataset. It includes a **modular BigQuery cleaning pipeline**, a **validated cleaned dataset**, and a **Power BI dashboard** that uncovers key commercial, operational, and customer insights. The repository demonstrates real‑world data issues, robust SQL cleaning logic, and business‑ready analytics.

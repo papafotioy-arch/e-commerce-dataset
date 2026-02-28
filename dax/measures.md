@@ -1,7 +1,6 @@
-DAX CODE
+# DAX Measures
 
-
-01. Date Table
+## Date Table
 DateTable =
 ADDCOLUMNS(
     CALENDAR(
@@ -13,13 +12,10 @@ ADDCOLUMNS(
     "MonthName", FORMAT([Date], "MMM")
 )
 
-
-02. Measures Table Placeholder
+## Measures Table Placeholder
 measures_table = { BLANK() }
 
-
-
-03.  Sales & Order Metrics
+## Sales & Order Metrics
 Total Sales =
 SUMX(
     'clean-data',
@@ -35,9 +31,7 @@ SUM('clean-data'[quantity])
 AOV =
 DIVIDE([Total Sales], [Total Orders])
 
-
-
-04. Order Status KPIs
+## Order Status KPIs
 Refund Rate =
 DIVIDE(
     CALCULATE(
@@ -68,9 +62,7 @@ CALCULATE(
     'clean-data'[order_status] = "Completed"
 )
 
-
-
-05. Customer Quality Metrics
+## Customer Quality Metrics
 Email Valid % =
 DIVIDE(
     CALCULATE(
@@ -92,17 +84,13 @@ DIVIDE(
 Avg Customer Age =
 AVERAGE('clean-data'[customer_age])
 
-
-
-06. Data Quality Score
+## Data Quality Score
 Data Quality Score =
 1
     - (0.7 * (1 - [Email Valid %]))
     - (0.3 * (1 - [Newsletter Signup %]))
 
-
-
-07. Order Rate Metrics
+## Order Rate Metrics
 Completed Order Rate =
 DIVIDE(
     CALCULATE(

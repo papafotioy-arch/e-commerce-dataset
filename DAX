@@ -1,0 +1,122 @@
+DAX CODE
+
+
+01. Date Table
+DateTable =
+ADDCOLUMNS(
+    CALENDAR(
+        MIN('clean-data'[order_date]),
+        MAX('clean-data'[order_date])
+    ),
+    "Year", YEAR([Date]),
+    "Month", MONTH([Date]),
+    "MonthName", FORMAT([Date], "MMM")
+)
+
+
+02. Measures Table Placeholder
+measures_table = { BLANK() }
+
+
+
+03.  Sales & Order Metrics
+Total Sales =
+SUMX(
+    'clean-data',
+    'clean-data'[price] * 'clean-data'[quantity]
+)
+
+Total Orders =
+DISTINCTCOUNT('clean-data'[order_id])
+
+Units Sold =
+SUM('clean-data'[quantity])
+
+AOV =
+DIVIDE([Total Sales], [Total Orders])
+
+
+
+04. Order Status KPIs
+Refund Rate =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('clean-data'),
+        'clean-data'[order_status] = "Refunded"
+    ),
+    COUNTROWS('clean-data')
+)
+
+Cancellation Rate =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('clean-data'),
+        'clean-data'[order_status] = "Cancelled"
+    ),
+    COUNTROWS('clean-data')
+)
+
+Pending Orders =
+CALCULATE(
+    COUNTROWS('clean-data'),
+    'clean-data'[order_status] = "Pending"
+)
+
+Completed Orders =
+CALCULATE(
+    COUNTROWS('clean-data'),
+    'clean-data'[order_status] = "Completed"
+)
+
+
+
+05. Customer Quality Metrics
+Email Valid % =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('clean-data'),
+        'clean-data'[email_valid] = TRUE()
+    ),
+    COUNTROWS('clean-data')
+)
+
+Newsletter Signup % =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('clean-data'),
+        'clean-data'[newsletter_signup] = TRUE()
+    ),
+    COUNTROWS('clean-data')
+)
+
+Avg Customer Age =
+AVERAGE('clean-data'[customer_age])
+
+
+
+06. Data Quality Score
+Data Quality Score =
+1
+    - (0.7 * (1 - [Email Valid %]))
+    - (0.3 * (1 - [Newsletter Signup %]))
+
+
+
+07. Order Rate Metrics
+Completed Order Rate =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('clean-data'),
+        'clean-data'[order_status] = "Completed"
+    ),
+    COUNTROWS('clean-data')
+)
+
+Pending Order Rate =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('clean-data'),
+        'clean-data'[order_status] = "Pending"
+    ),
+    COUNTROWS('clean-data')
+)

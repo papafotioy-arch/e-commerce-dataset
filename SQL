@@ -50,7 +50,7 @@ SELECT
   SAFE.PARSE_DATE(
     '%Y-%m-%d',
     CASE
-      -- yyyy.mm.dd  → convert dots to dashes
+      -- yyyy.mm.dd
       WHEN REGEXP_CONTAINS(order_date, r'^\d{4}\.\d{2}\.\d{2}$')
         THEN REPLACE(order_date, '.', '-')
 
@@ -59,7 +59,7 @@ SELECT
         THEN FORMAT_DATE('%Y-%m-%d',
               PARSE_DATE('%d/%m/%Y', order_date))
 
-      -- dd-MMM-yy (e.g., 18-Mar-24)
+      -- dd-MMM-yy
       WHEN REGEXP_CONTAINS(order_date, r'^\d{2}-[A-Za-z]{3}-\d{2}$')
         THEN FORMAT_DATE('%Y-%m-%d',
               PARSE_DATE('%d-%b-%y', order_date))
@@ -88,16 +88,16 @@ SELECT
   TRIM(payment_type) AS payment_type,
   TRIM(order_status) AS order_status,
 
-  -- Boolean-like fields
+  -- Boolean-like fields (apply LOWER() to the raw string)
   CASE
-    WHEN LOWER(discount_applied) IN ('yes','true','1') THEN TRUE
-    WHEN LOWER(discount_applied) IN ('no','false','0') THEN FALSE
+    WHEN LOWER(CAST(discount_applied AS STRING)) IN ('yes','true','1') THEN TRUE
+    WHEN LOWER(CAST(discount_applied AS STRING)) IN ('no','false','0') THEN FALSE
     ELSE NULL
   END AS discount_applied,
 
   CASE
-    WHEN LOWER(newsletter_signup) IN ('yes','true','1') THEN TRUE
-    WHEN LOWER(newsletter_signup) IN ('no','false','0') THEN FALSE
+    WHEN LOWER(CAST(newsletter_signup AS STRING)) IN ('yes','true','1') THEN TRUE
+    WHEN LOWER(CAST(newsletter_signup AS STRING)) IN ('no','false','0') THEN FALSE
     ELSE NULL
   END AS newsletter_signup,
 

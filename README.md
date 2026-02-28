@@ -1,7 +1,7 @@
 # ecommerce-bigquery-cleaning
 BigQuery pipeline that merges and cleans three raw e‑commerce sheets using modular SQL. Covers type casting, normalization, email and country cleaning, and deduplication. Includes a short exploratory analysis highlighting order patterns and channel insights
 # Project Overview
-This project showcases an end‑to‑end data‑cleaning workflow using Google BigQuery to transform three raw e‑commerce order sheets into a unified, analysis‑ready dataset. The raw files contain realistic data issues such as inconsistent formatting, invalid emails, mixed date formats, currency symbols, negative values, and duplicate records. The goal is to demonstrate a clear, reproducible, and well‑documented SQL pipeline suitable for analytics, KPI reporting, and BI dashboards.
+This project showcases an end‑to‑end data cleaning workflow using Google BigQuery to transform three raw e‑commerce order sheets into a unified, analysis‑ready dataset. The raw files contain realistic data issues such as inconsistent formatting, invalid emails, mixed date formats, currency symbols, negative values, and duplicate records. The goal is to demonstrate a clear, reproducible, and well‑documented SQL pipeline suitable for analytics, KPI reporting, and BI dashboards.
 The workflow follows a structured data‑engineering approach: ingesting raw files, combining them into a staging layer, standardizing fields, cleaning data types, normalizing categories, validating records, removing duplicates, and exporting a final cleaned dataset. All transformations are implemented using modular SQL scripts, and the repository includes documentation, a data dictionary, and a cleaning log.
 
 ## Data Cleaning Pipeline
@@ -12,7 +12,7 @@ The cleaning process is organized into sequential SQL steps:
 - Clean and validate emails, removing invalid characters and flagging incorrect formats.
 - Normalize country values (e.g., GB, U.K., United Kingdom → UK).
 - Standardize categorical fields such as order status and marketing channel.
-- Remove duplicates using business‑logic keys.
+- Remove duplicates and null values, standardise negative numbers, using business‑logic keys.
 - Export the cleaned dataset for analysis.
 The final output is cleaned_orders.csv, ready for dashboards or further modeling.
 
@@ -44,8 +44,9 @@ e-commerce-dataset/
 │   ├── 04_clean_emails.sql
 │   ├── 05_clean_country.sql
 │   ├── 06_clean_status.sql
-│   ├── 07_remove_duplicates.sql
-│   └── 08_export.sql
+│   ├── 07_product_category_fix.sql
+│   ├── 08_remove_duplicates.sql
+│   └── 08_export
 │
 ├── docs/
 │   ├── README.md

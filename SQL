@@ -100,10 +100,12 @@ FROM staging.orders_standardized;
 
 CREATE OR REPLACE TABLE staging.orders_email_clean AS
 SELECT
-  *,
-  REGEXP_REPLACE(email, r'\s+', '') AS email_no_spaces,
-  REGEXP_REPLACE(email, r'@@', '@') AS email_fixed,
-  REGEXP_CONTAINS(email, r'^[^@]+@[^@]+\.[^@]+$') AS email_valid
+  *, REGEXP_REPLACE(
+    REGEXP_REPLACE(email, r'\s+', ''),
+    r'@@', '@') AS email_fixed,
+  REGEXP_CONTAINS(
+    REGEXP_REPLACE(email, r'\s+', ''),
+    r'^[^@]+@[^@]+\.[^@]+$') AS email_valid
 FROM staging.orders_typed;
 
 
@@ -128,57 +130,56 @@ SELECT
   INITCAP(sales_channel) AS sales_channel_clean
 FROM staging.orders_country_clean;
 
-07_remove_duplicates.sql
 
-CREATE OR REPLACE TABLE cleaned.orders_final AS
+07_product_category_fix.sql
+
+CREATE OR REPLACE TABLE staging.orders_product_category_clean AS
+SELECT
+  *,
+
+  CASE
+    -- Correct fashion product categories
+    WHEN LOWER(product) = 'cap' THEN 'Accessories'
+    WHEN LOWER(product) = 'denim jacket' THEN 'Clothing'
+    WHEN LOWER(product) = 'graphic tee' THEN 'Clothing'
+    WHEN LOWER(product) = 'hoodie' THEN 'Clothing'
+    WHEN LOWER(product) = 'running shoes' THEN 'Footwear'
+    WHEN LOWER(product) = 'trainers' THEN 'Footwear'
+
+    -- Handle bad/incomplete product rows
+    WHEN LOWER(product) = 'h' THEN NULL
+
+    -- Otherwise, keep original category
+    ELSE category
+  END AS category_clean,
+
+  product AS product_clean
+
+FROM staging.orders_status_clean;
+
+
+08_remove_duplicates/NULLs/ABS.sql
+
+CREATE OR REPLACE TABLE staging.orders_final AS
 SELECT DISTINCT
   order_id,
   customer_name,
   email_fixed AS email,
+  email_valid,
+  customer_age,
   order_date,
-  product,
-  category,
+  product_clean AS product,
+  category_clean AS category,
   price,
-  quantity,
+  ABS(quantity) AS quantity,
   country_clean AS country,
   sales_channel_clean AS sales_channel,
   payment_type,
   order_status_clean AS order_status,
   discount_applied,
-  customer_age,
   newsletter_signup,
-  email_valid,
   source_sheet
-FROM staging.orders_status_clean;
+FROM staging.orders_product_category_clean
+WHERE quantity IS NOT NULL;
 
-08_product_category_fix.sql
-
-CREATE OR REPLACE TABLE staging.orders_product_category_clean AS
-SELECT
-  *,
-  CASE
-    -- Correct known mis-categorised products
-    WHEN LOWER(product) = 'iphone 14' THEN 'Electronics'
-    WHEN LOWER(product) = 'samsung tv 55"' THEN 'Electronics'
-    WHEN LOWER(product) = 'nike running shoes' THEN 'Sportswear'
-    WHEN LOWER(product) = 'dyson v11 vacuum' THEN 'Home Appliances'
-
-    -- Add more corrections here
-    ELSE INITCAP(TRIM(category))
-  END AS category_clean,
-
-  INITCAP(TRIM(product)) AS product_clean
-FROM staging.orders_text_clean;
-
-09_export.sql
-
-EXPORT DATA OPTIONS(
-  uri='gs://your-bucket-name/cleaned_orders.csv',
-  format='CSV',
-  overwrite=true,
-  header=true
-)
-AS
-SELECT *
-FROM cleaned.orders_final;
 

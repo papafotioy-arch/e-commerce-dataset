@@ -34,6 +34,12 @@ The result is a **fully standardized, deduplicated, and validated dataset** read
 
 <img width="1125" height="633" alt="Sales DB" src="https://github.com/user-attachments/assets/b733f233-b396-47af-92ad-d389a00027fb" />
 
+
+
+---
+
+
+
 <img width="893" height="484" alt="Quality DB" src="https://github.com/user-attachments/assets/3d02f8e7-df9b-4773-b65c-9915269ac439" />
 
 

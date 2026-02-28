@@ -41,28 +41,54 @@ FROM staging.orders_raw;
 
 CREATE OR REPLACE TABLE staging.orders_typed AS
 SELECT
+  -- IDs and text fields
   CAST(order_id AS STRING) AS order_id,
   TRIM(customer_name) AS customer_name,
   TRIM(email) AS email,
 
-  SAFE.PARSE_DATE('%Y-%m-%d', REPLACE(order_date, '.', '-')) AS order_date,
+  -- Multi-format date parser
+  SAFE.PARSE_DATE(
+    '%Y-%m-%d',
+    CASE
+      -- yyyy.mm.dd  → convert dots to dashes
+      WHEN REGEXP_CONTAINS(order_date, r'^\d{4}\.\d{2}\.\d{2}$')
+        THEN REPLACE(order_date, '.', '-')
 
+      -- dd/mm/yyyy
+      WHEN REGEXP_CONTAINS(order_date, r'^\d{2}/\d{2}/\d{4}$')
+        THEN FORMAT_DATE('%Y-%m-%d',
+              PARSE_DATE('%d/%m/%Y', order_date))
+
+      -- dd-MMM-yy (e.g., 18-Mar-24)
+      WHEN REGEXP_CONTAINS(order_date, r'^\d{2}-[A-Za-z]{3}-\d{2}$')
+        THEN FORMAT_DATE('%Y-%m-%d',
+              PARSE_DATE('%d-%b-%y', order_date))
+
+      ELSE NULL
+    END
+  ) AS order_date,
+
+  -- Product & category (raw for now)
   TRIM(product) AS product,
   TRIM(category) AS category,
 
+  -- Price: remove Â£, £, commas, spaces, any non-numeric characters
   SAFE_CAST(
     REGEXP_REPLACE(price, r'[^0-9\.]', '')
     AS FLOAT64
   ) AS price,
 
+  -- Numeric fields
   SAFE_CAST(quantity AS INT64) AS quantity,
   SAFE_CAST(customer_age AS INT64) AS customer_age,
 
+  -- Text fields
   TRIM(country) AS country,
   TRIM(sales_channel) AS sales_channel,
   TRIM(payment_type) AS payment_type,
   TRIM(order_status) AS order_status,
 
+  -- Boolean-like fields
   CASE
     WHEN LOWER(discount_applied) IN ('yes','true','1') THEN TRUE
     WHEN LOWER(discount_applied) IN ('no','false','0') THEN FALSE
@@ -75,9 +101,10 @@ SELECT
     ELSE NULL
   END AS newsletter_signup,
 
+  -- Metadata
   source_sheet
-FROM staging.orders_standardized;
 
+FROM staging.orders_standardized;
 
 04_clean_text.sql
 

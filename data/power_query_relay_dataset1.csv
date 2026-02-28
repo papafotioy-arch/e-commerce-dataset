@@ -2,826 +2,826 @@ order_id,customer_name,email,order_date,product,category,price,quantity,country,
 5001,Marco Hassan,marco.hassan86outlook.com,01/02/2024,Trainers,Clothing,N/A,0,U.K.,email,Card,Cancelled,No,34,no
 5002,Julien Keller,julienkeller@mail.com,20/04/2024,Running Shoes,Clothing,N/A,2,U.K.,TikTok,Card,Completed,FALSE,27,FALSE
 5003,Isla Silva  ,isla.silva10@,2024.01.27,Denim Jacket,Footwear,55,-1,United Kingdom,Email,Google Pay,Completed,TRUE,22,FALSE
-5004,Nadia Kovacs  ,nadia.kovacs66 @outlook.com,30/04/2024,Trainers,Footwear,£29.99,2,GB,email,Google Pay,Completed,FALSE,,TRUE
+5004,Nadia Kovacs  ,nadia.kovacs66 @outlook.com,30/04/2024,Trainers,Footwear,Â£29.99,2,GB,email,Google Pay,Completed,FALSE,,TRUE
 5005,Leo Popescu  ,leo.popescu10@,12/02/2024,Denim Jacket,Clothing,29.99,1,United Kingdom,Facebook,Apple Pay,Cancelled,No,27,no
-5006,Anika OConnor,anikaoconnor@outlook.com,18-Mar-24,Trainers,Footwear,£29.99,2,uk,instagram,PayPal,Cancelled,No,22,yes
-5007,Elena Ivanov,elena.ivanov42@company.co,24/01/2024,Denim Jacket,Clothing,£29.99,-1,UK,TikTok,PayPal,Cancelled,FALSE,27,FALSE
+5006,Anika OConnor,anikaoconnor@outlook.com,18-Mar-24,Trainers,Footwear,Â£29.99,2,uk,instagram,PayPal,Cancelled,No,22,yes
+5007,Elena Ivanov,elena.ivanov42@company.co,24/01/2024,Denim Jacket,Clothing,Â£29.99,-1,UK,TikTok,PayPal,Cancelled,FALSE,27,FALSE
 5008,Aisha Sato ,aisha.sato78@outlook.com,22/04/2024,Hoodie,Accessories,55,0,United Kingdom,TikTok,PayPal,Pending,Yes,unknown,no
 5009,Jonas Papadopoulos,jonas.papadopoulos96@gmal.com,2024.02.19,Graphic Tee,Footwear,55,0,uk,Instagram,Apple Pay,Pending,FALSE,41,FALSE
 5010,Hannah Kim ,hannah.kim62@outlok.com,2024.01.21,Graphic Tee,Accessories,N/A,-1,U.K.,email,Google Pay,Refunded,FALSE,27,FALSE
 5011,Fatima Wright  ,fatima.wright55@hotnail.com,18/04/2024,Cap,Accessories,29.99,3,GB,email,PayPal,Cancelled,TRUE,,FALSE
 5012,Amelia Brown  ,amelia.brown78gmail.com,2024.03.07,Cap,Accessories,29.99,-1,GB,instagram,Apple Pay,Cancelled,FALSE,41,yes
-5013,Harper Weber  ,harperweber@company.co,26/01/2024,Trainers,Clothing,£29.99,-1,UK,Instagram,Google Pay,Pending,TRUE,41,no
-5014,Nadia Keller  ,nadia.keller47gmail.com,20-Apr-24,Graphic Tee,Footwear,£45,0,uk,instagram,PayPal,Cancelled,N,,FALSE
+5013,Harper Weber  ,harperweber@company.co,26/01/2024,Trainers,Clothing,Â£29.99,-1,UK,Instagram,Google Pay,Pending,TRUE,41,no
+5014,Nadia Keller  ,nadia.keller47gmail.com,20-Apr-24,Graphic Tee,Footwear,Â£45,0,uk,instagram,PayPal,Cancelled,N,,FALSE
 5015,Ines Romano  ,ines.romano32@@company.co,2024.01.27,Graphic Tee,Accessories,N/A,0,United Kingdom,Facebook,Google Pay,Refunded,Yes,41,FALSE
-5016,Jonah Conti,jonah.conti24@@mail.com,2024.01.10,Cap,Accessories,£29.99,-1,U.K.,TikTok,Card,Pending,FALSE,27,FALSE
+5016,Jonah Conti,jonah.conti24@@mail.com,2024.01.10,Cap,Accessories,Â£29.99,-1,U.K.,TikTok,Card,Pending,FALSE,27,FALSE
 5017,Sofia Keller,sofia.keller60@gmail.com,13/02/2024,Denim Jacket,Clothing,29.99,0,UK,email,Google Pay,Refunded,No,18,FALSE
 5018,Nina Silva ,nina.silva94@@gmail.com,12/03/2024,Denim Jacket,Footwear,N/A,3,U.K.,Instagram,Card,Refunded,No,22,yes
-5019,Oliver Thompson  ,oliver.thompson92@,2024.01.22,Cap,Footwear,£60.00,-1,U.K.,instagram,Apple Pay,Completed,TRUE,unknown,no
+5019,Oliver Thompson  ,oliver.thompson92@,2024.01.22,Cap,Footwear,Â£60.00,-1,U.K.,instagram,Apple Pay,Completed,TRUE,unknown,no
 5020,Callum Khan ,callum.khan32@gmal.com,19-Jan-24,Cap,Accessories,N/A,1,United Kingdom,Facebook,Card,Refunded,Y,34,no
-5021,Khalid Schmidt,khalidschmidt@outlook.com,09-Apr-24,Hoodie,Clothing,£45,-1,UK,Email,Google Pay,Completed,TRUE,22,FALSE
-5022,Amelia Hernandez  ,amelia.hernandez47@@gmail.com,04-Mar-24,Trainers,Footwear,£45,2,U.K.,email,Apple Pay,Pending,N,27,TRUE
+5021,Khalid Schmidt,khalidschmidt@outlook.com,09-Apr-24,Hoodie,Clothing,Â£45,-1,UK,Email,Google Pay,Completed,TRUE,22,FALSE
+5022,Amelia Hernandez  ,amelia.hernandez47@@gmail.com,04-Mar-24,Trainers,Footwear,Â£45,2,U.K.,email,Apple Pay,Pending,N,27,TRUE
 5023,Aisha Silva  ,aisha.silva39 @outlook.com,29/03/2024,Hoodie,Accessories,55,0,U.K.,email,PayPal,Refunded,Y,34,TRUE
-5024,Ben Rossi  ,ben.rossi43hotmail.com,13-Jan-24,Trainers,Accessories,£29.99,2,United Kingdom,instagram,Apple Pay,Completed,TRUE,22,yes
+5024,Ben Rossi  ,ben.rossi43hotmail.com,13-Jan-24,Trainers,Accessories,Â£29.99,2,United Kingdom,instagram,Apple Pay,Completed,TRUE,22,yes
 5025,Emre Kim,emre.kim10@gmal.com,05-Mar-24,Graphic Tee,Footwear,29.99,-1,United Kingdom,TikTok,Google Pay,Refunded,FALSE,41,TRUE
 5026,Yusuf Moretti,yusuf.moretti39@outlok.com,03/03/2024,Cap,Footwear,55,-1,United Kingdom,instagram,PayPal,Cancelled,N,22,FALSE
-5027,Sebastian Novak,sebastian.novak93 @hotmail.com,27/04/2024,Running Shoes,Footwear,£60.00,2,GB,Facebook,Card,Refunded,TRUE,27,yes
-5028,Jakub Ivanov,jakubivanov@gmail.com,30/04/2024,Graphic Tee,Footwear,£45,2,UK,email,Apple Pay,Refunded,TRUE,,TRUE
+5027,Sebastian Novak,sebastian.novak93 @hotmail.com,27/04/2024,Running Shoes,Footwear,Â£60.00,2,GB,Facebook,Card,Refunded,TRUE,27,yes
+5028,Jakub Ivanov,jakubivanov@gmail.com,30/04/2024,Graphic Tee,Footwear,Â£45,2,UK,email,Apple Pay,Refunded,TRUE,,TRUE
 5029,Amelia Esposito  ,amelia.esposito47company.co,15/01/2024,Hoodie,Clothing,29.99,3,U.K.,TikTok,PayPal,Cancelled,Yes,18,TRUE
 5030,Chloe Dubois  ,chloedubois@mail.com,2024.01.03,Hoodie,Clothing,29.99,-1,United Kingdom,Instagram,Card,Completed,No,22,FALSE
-5031,Jakub Weber ,jakub.weber19@gmal.com,25/02/2024,Cap,Clothing,£29.99,3,GB,Facebook,Google Pay,Pending,TRUE,,TRUE
-5032,Ethan Silva  ,ethan.silva41@gmail.com,2024.01.29,Hoodie,Accessories,£29.99,3,uk,Email,PayPal,Refunded,FALSE,,FALSE
+5031,Jakub Weber ,jakub.weber19@gmal.com,25/02/2024,Cap,Clothing,Â£29.99,3,GB,Facebook,Google Pay,Pending,TRUE,,TRUE
+5032,Ethan Silva  ,ethan.silva41@gmail.com,2024.01.29,Hoodie,Accessories,Â£29.99,3,uk,Email,PayPal,Refunded,FALSE,,FALSE
 5033,Leila Patel  ,leila.patel43@mail.com,16/01/2024,Hoodie,Clothing,N/A,0,GB,TikTok,PayPal,Completed,TRUE,34,FALSE
-5034,Maya Keller ,maya.keller68@hotnail.com,13/02/2024,Cap,Footwear,£29.99,-1,UK,email,PayPal,Cancelled,No,34,no
+5034,Maya Keller ,maya.keller68@hotnail.com,13/02/2024,Cap,Footwear,Â£29.99,-1,UK,email,PayPal,Cancelled,No,34,no
 5035,Layla Keller  ,layla.keller12@gmail.com,2024.04.12,Running Shoes,Footwear,N/A,1,UK,Facebook,Apple Pay,Refunded,No,unknown,no
 5036,Priya Muller  ,priya.muller63@company.co,17/04/2024,Graphic Tee,Clothing,N/A,1,UK,TikTok,Apple Pay,Pending,N,22,TRUE
-5037,Jonas Brown,jonasbrown@gmail.com,02-Feb-24,Graphic Tee,Footwear,£45,-1,GB,instagram,Apple Pay,Cancelled,TRUE,41,TRUE
-5038,Harper Muller ,harper.muller46outlook.com,12/02/2024,Denim Jacket,Footwear,£60.00,3,U.K.,Email,Card,Refunded,Y,34,FALSE
+5037,Jonas Brown,jonasbrown@gmail.com,02-Feb-24,Graphic Tee,Footwear,Â£45,-1,GB,instagram,Apple Pay,Cancelled,TRUE,41,TRUE
+5038,Harper Muller ,harper.muller46outlook.com,12/02/2024,Denim Jacket,Footwear,Â£60.00,3,U.K.,Email,Card,Refunded,Y,34,FALSE
 5039,Theo Wright ,theo.wright61 @gmail.com,02-Jan-24,Trainers,Clothing,55,1,UK,Instagram,PayPal,Completed,No,27,FALSE
-5040,Ethan Dubois  ,ethan.dubois43@hotnail.com,23/01/2024,Trainers,Accessories,£29.99,3,UK,instagram,Apple Pay,Cancelled,TRUE,41,TRUE
+5040,Ethan Dubois  ,ethan.dubois43@hotnail.com,23/01/2024,Trainers,Accessories,Â£29.99,3,UK,instagram,Apple Pay,Cancelled,TRUE,41,TRUE
 5041,Freya Novak ,freya.novak79 @company.co,2024.01.28,Running Shoes,Footwear,N/A,3,U.K.,email,PayPal,Refunded,N,41,yes
-5042,Callum Petrov,callum.petrov87@@hotmail.com,2024.01.23,Trainers,Footwear,£60.00,-1,uk,instagram,PayPal,Cancelled,Yes,18,yes
-5043,Elena Romano ,elena.romano56hotmail.com,12/02/2024,Cap,Accessories,£45,1,uk,Facebook,PayPal,Refunded,Yes,22,no
+5042,Callum Petrov,callum.petrov87@@hotmail.com,2024.01.23,Trainers,Footwear,Â£60.00,-1,uk,instagram,PayPal,Cancelled,Yes,18,yes
+5043,Elena Romano ,elena.romano56hotmail.com,12/02/2024,Cap,Accessories,Â£45,1,uk,Facebook,PayPal,Refunded,Yes,22,no
 5044,Oliver Petrov ,oliverpetrov@hotmail.com,10-Mar-24,Hoodie,Accessories,N/A,0,uk,Instagram,PayPal,Pending,No,18,TRUE
-5045,Sebastian Johnson,sebastian.johnson57@,10/02/2024,Denim Jacket,Footwear,£60.00,3,uk,Facebook,PayPal,Refunded,N,unknown,FALSE
-5046,Priya Patel  ,priya.patel75 @company.co,19/01/2024,Graphic Tee,Accessories,£60.00,2,uk,TikTok,Google Pay,Cancelled,Yes,unknown,TRUE
-5047,Noah Ivanov,noah.ivanov71@gmal.com,2024.03.04,Running Shoes,Accessories,£29.99,2,GB,Instagram,Apple Pay,Refunded,N,27,no
+5045,Sebastian Johnson,sebastian.johnson57@,10/02/2024,Denim Jacket,Footwear,Â£60.00,3,uk,Facebook,PayPal,Refunded,N,unknown,FALSE
+5046,Priya Patel  ,priya.patel75 @company.co,19/01/2024,Graphic Tee,Accessories,Â£60.00,2,uk,TikTok,Google Pay,Cancelled,Yes,unknown,TRUE
+5047,Noah Ivanov,noah.ivanov71@gmal.com,2024.03.04,Running Shoes,Accessories,Â£29.99,2,GB,Instagram,Apple Pay,Refunded,N,27,no
 5048,Oscar Thompson,oscarthompson@outlook.com,02/04/2024,Graphic Tee,Footwear,N/A,-1,GB,Facebook,Card,Refunded,N,18,yes
-5049,Callum Muller,callum.muller80@,06/02/2024,Cap,Footwear,£45,1,UK,email,PayPal,Cancelled,TRUE,unknown,FALSE
-5050,Emre Martinez ,emre.martinez83@@outlook.com,29/03/2024,Hoodie,Accessories,£45,-1,United Kingdom,email,Google Pay,Pending,No,41,TRUE
-5051,Anika Smith ,anika.smith62@hotnail.com,2024.03.18,Graphic Tee,Footwear,£60.00,2,UK,email,Apple Pay,Refunded,No,,no
+5049,Callum Muller,callum.muller80@,06/02/2024,Cap,Footwear,Â£45,1,UK,email,PayPal,Cancelled,TRUE,unknown,FALSE
+5050,Emre Martinez ,emre.martinez83@@outlook.com,29/03/2024,Hoodie,Accessories,Â£45,-1,United Kingdom,email,Google Pay,Pending,No,41,TRUE
+5051,Anika Smith ,anika.smith62@hotnail.com,2024.03.18,Graphic Tee,Footwear,Â£60.00,2,UK,email,Apple Pay,Refunded,No,,no
 5052,Noah Kovacs  ,noah.kovacs38@@company.co,11-Feb-24,Hoodie,Clothing,29.99,3,uk,instagram,Card,Refunded,Y,34,FALSE
 5053,Lucas Petrov  ,lucas.petrov50@outlok.com,2024.01.23,Denim Jacket,Footwear,N/A,-1,UK,Email,Google Pay,Refunded,FALSE,22,yes
-5054,Ethan Ali ,ethan.ali64 @company.co,12/02/2024,Cap,Footwear,£29.99,2,United Kingdom,Facebook,PayPal,Refunded,N,34,FALSE
+5054,Ethan Ali ,ethan.ali64 @company.co,12/02/2024,Cap,Footwear,Â£29.99,2,United Kingdom,Facebook,PayPal,Refunded,N,34,FALSE
 5055,Jakub Smith,jakub.smith17@gmal.com,12-Jan-24,Graphic Tee,Footwear,N/A,3,GB,TikTok,Card,Refunded,N,41,no
 5056,Callum Schmidt  ,callum.schmidt65@@company.co,04/04/2024,Denim Jacket,Footwear,55,-1,uk,email,PayPal,Cancelled,FALSE,34,FALSE
 5057,Sara Popescu  ,sara.popescu67 @mail.com,09/04/2024,Graphic Tee,Footwear,N/A,0,United Kingdom,Instagram,Apple Pay,Cancelled,Yes,34,FALSE
-5058,Elena OConnor  ,elena.oconnor35gmail.com,29-Apr-24,Denim Jacket,Footwear,£29.99,2,U.K.,email,PayPal,Refunded,No,unknown,TRUE
+5058,Elena OConnor  ,elena.oconnor35gmail.com,29-Apr-24,Denim Jacket,Footwear,Â£29.99,2,U.K.,email,PayPal,Refunded,No,unknown,TRUE
 5059,Noah Nielsen  ,noah.nielsen17@outlook.com,05/01/2024,Running Shoes,Accessories,29.99,2,U.K.,Instagram,PayPal,Cancelled,TRUE,34,TRUE
-5060,Yusuf Nielsen ,yusuf.nielsen41@@gmail.com,23-Mar-24,Trainers,Footwear,£60.00,1,United Kingdom,Facebook,Apple Pay,Pending,TRUE,22,no
-5061,Sebastian Petrov ,sebastian.petrov93@@mail.com,23-Mar-24,Trainers,Clothing,£29.99,3,U.K.,Email,Card,Pending,Yes,18,FALSE
+5060,Yusuf Nielsen ,yusuf.nielsen41@@gmail.com,23-Mar-24,Trainers,Footwear,Â£60.00,1,United Kingdom,Facebook,Apple Pay,Pending,TRUE,22,no
+5061,Sebastian Petrov ,sebastian.petrov93@@mail.com,23-Mar-24,Trainers,Clothing,Â£29.99,3,U.K.,Email,Card,Pending,Yes,18,FALSE
 5062,Nadia Berg  ,nadia.berg10company.co,2024.02.15,Denim Jacket,Clothing,N/A,3,uk,email,Apple Pay,Cancelled,No,41,FALSE
-5063,Layla Popescu  ,layla.popescu20@mail.com,10/01/2024,Cap,Footwear,£29.99,3,GB,TikTok,PayPal,Refunded,Yes,unknown,FALSE
+5063,Layla Popescu  ,layla.popescu20@mail.com,10/01/2024,Cap,Footwear,Â£29.99,3,GB,TikTok,PayPal,Refunded,Yes,unknown,FALSE
 5064,Mila Novak  ,mila.novak60gmail.com,2024.04.21,Hoodie,Footwear,55,3,GB,email,PayPal,Refunded,N,41,no
-5065,Noah OConnor,noah.oconnor14@@company.co,01/03/2024,Trainers,Footwear,£45,3,U.K.,TikTok,PayPal,Pending,No,18,FALSE
+5065,Noah OConnor,noah.oconnor14@@company.co,01/03/2024,Trainers,Footwear,Â£45,3,U.K.,TikTok,PayPal,Pending,No,18,FALSE
 5066,Sara Smith  ,sara.smith32@hotmail.com,28/03/2024,Hoodie,Clothing,55,3,United Kingdom,Email,PayPal,Refunded,FALSE,unknown,yes
-5067,Jonah Silva ,jonah.silva35@,30/04/2024,Hoodie,Accessories,£29.99,2,uk,Facebook,PayPal,Completed,Y,,no
-5068,Isla Muller,isla.muller35@@mail.com,02/01/2024,Trainers,Footwear,£29.99,2,UK,Instagram,Card,Completed,Yes,18,no
+5067,Jonah Silva ,jonah.silva35@,30/04/2024,Hoodie,Accessories,Â£29.99,2,uk,Facebook,PayPal,Completed,Y,,no
+5068,Isla Muller,isla.muller35@@mail.com,02/01/2024,Trainers,Footwear,Â£29.99,2,UK,Instagram,Card,Completed,Yes,18,no
 5069,Lucas Berg ,lucas.berg32@,19/02/2024,Graphic Tee,Footwear,55,2,U.K.,Facebook,Apple Pay,Completed,TRUE,22,no
-5070,Mateo Popescu  ,mateo.popescu15@gmal.com,26/03/2024,Trainers,Accessories,£60.00,3,United Kingdom,Email,Google Pay,Completed,TRUE,unknown,yes
+5070,Mateo Popescu  ,mateo.popescu15@gmal.com,26/03/2024,Trainers,Accessories,Â£60.00,3,United Kingdom,Email,Google Pay,Completed,TRUE,unknown,yes
 5071,Ines ONeil,ines.oneil14mail.com,12/04/2024,Running Shoes,Footwear,29.99,2,GB,Instagram,Apple Pay,Completed,No,22,yes
 5072,Alina Ricci,alina.ricci96 @mail.com,27-Mar-24,Denim Jacket,Clothing,N/A,-1,uk,Email,Google Pay,Refunded,Y,unknown,no
 5073,Jonah Ricci ,jonahricci@outlook.com,11/04/2024,Running Shoes,Footwear,N/A,1,United Kingdom,Email,PayPal,Refunded,Y,41,FALSE
-5074,Emre Hernandez,emre.hernandez46@,2024.01.24,Denim Jacket,Footwear,£29.99,-1,United Kingdom,Email,Apple Pay,Pending,No,22,no
+5074,Emre Hernandez,emre.hernandez46@,2024.01.24,Denim Jacket,Footwear,Â£29.99,-1,United Kingdom,Email,Apple Pay,Pending,No,22,no
 5075,Alina Petrov ,alinapetrov@mail.com,2024.01.22,Hoodie,Accessories,29.99,2,uk,TikTok,PayPal,Completed,N,unknown,FALSE
-5076,Amir Esposito,amir.esposito70@@company.co,28/02/2024,Running Shoes,Accessories,£45,1,U.K.,Facebook,Apple Pay,Completed,TRUE,18,FALSE
+5076,Amir Esposito,amir.esposito70@@company.co,28/02/2024,Running Shoes,Accessories,Â£45,1,U.K.,Facebook,Apple Pay,Completed,TRUE,18,FALSE
 5077,Lucas Romano,lucas.romano27@,07/04/2024,Denim Jacket,Clothing,29.99,2,UK,Email,Card,Cancelled,Yes,41,FALSE
-5078,Mateo Moretti ,mateo.moretti84 @mail.com,01/01/2024,Graphic Tee,Accessories,£60.00,-1,uk,instagram,Apple Pay,Pending,Yes,,no
+5078,Mateo Moretti ,mateo.moretti84 @mail.com,01/01/2024,Graphic Tee,Accessories,Â£60.00,-1,uk,instagram,Apple Pay,Pending,Yes,,no
 5079,Noah Brown,noah.brown41@hotnail.com,24/04/2024,Running Shoes,Accessories,55,1,uk,instagram,Google Pay,Cancelled,TRUE,unknown,no
 5080,Liam Muller,liam.muller85@gmail.com,18/02/2024,Denim Jacket,Clothing,N/A,-1,United Kingdom,instagram,Google Pay,Pending,Yes,18,TRUE
 5081,Tomas Chen,tomas.chen61hotmail.com,07-Feb-24,Running Shoes,Accessories,N/A,3,U.K.,Facebook,Apple Pay,Refunded,FALSE,22,no
-5082,Anika Novak ,anika.novak98@,14/02/2024,Denim Jacket,Accessories,£29.99,2,GB,Email,Card,Cancelled,N,34,yes
-5083,Liam ONeil,liam.oneil66 @mail.com,02/03/2024,Running Shoes,Footwear,£29.99,2,U.K.,email,Google Pay,Refunded,No,,FALSE
+5082,Anika Novak ,anika.novak98@,14/02/2024,Denim Jacket,Accessories,Â£29.99,2,GB,Email,Card,Cancelled,N,34,yes
+5083,Liam ONeil,liam.oneil66 @mail.com,02/03/2024,Running Shoes,Footwear,Â£29.99,2,U.K.,email,Google Pay,Refunded,No,,FALSE
 5084,Elena Hassan  ,elena.hassan94@@gmail.com,15-Mar-24,Trainers,Footwear,55,-1,GB,email,PayPal,Completed,TRUE,41,TRUE
 5085,Zara Silva ,zara.silva25mail.com,07-Feb-24,Hoodie,Accessories,55,2,UK,Instagram,Card,Pending,Y,unknown,TRUE
 5086,Jonah Thompson  ,jonah.thompson15@,24/01/2024,Hoodie,Accessories,55,3,UK,instagram,Apple Pay,Cancelled,Y,41,yes
 5087,Jonas Ali,jonas.ali35 @gmail.com,04/03/2024,Running Shoes,Footwear,N/A,0,uk,Instagram,Google Pay,Completed,FALSE,,yes
-5088,Clara Weber,claraweber@hotmail.com,20-Jan-24,Running Shoes,Footwear,£45,2,United Kingdom,Instagram,Apple Pay,Pending,TRUE,34,FALSE
+5088,Clara Weber,claraweber@hotmail.com,20-Jan-24,Running Shoes,Footwear,Â£45,2,United Kingdom,Instagram,Apple Pay,Pending,TRUE,34,FALSE
 5089,Aisha Nguyen  ,aisha.nguyen49@hotmail.com,04/03/2024,Cap,Clothing,29.99,2,uk,Instagram,Card,Refunded,FALSE,41,TRUE
-5090,Jakub Conti ,jakub.conti58@hotnail.com,21/04/2024,Cap,Footwear,£45,-1,United Kingdom,Email,PayPal,Completed,Yes,41,TRUE
-5091,Marco Thompson ,marco.thompson98@@company.co,19/01/2024,Running Shoes,Accessories,£29.99,3,UK,Email,Card,Cancelled,Y,18,TRUE
-5092,Tomas Johnson ,tomas.johnson38outlook.com,2024.04.14,Cap,Footwear,£45,-1,uk,Facebook,Card,Refunded,Y,unknown,FALSE
-5093,Amir Muller ,amir.muller92@outlok.com,2024.03.15,Graphic Tee,Accessories,£29.99,-1,UK,instagram,Card,Completed,No,27,yes
+5090,Jakub Conti ,jakub.conti58@hotnail.com,21/04/2024,Cap,Footwear,Â£45,-1,United Kingdom,Email,PayPal,Completed,Yes,41,TRUE
+5091,Marco Thompson ,marco.thompson98@@company.co,19/01/2024,Running Shoes,Accessories,Â£29.99,3,UK,Email,Card,Cancelled,Y,18,TRUE
+5092,Tomas Johnson ,tomas.johnson38outlook.com,2024.04.14,Cap,Footwear,Â£45,-1,uk,Facebook,Card,Refunded,Y,unknown,FALSE
+5093,Amir Muller ,amir.muller92@outlok.com,2024.03.15,Graphic Tee,Accessories,Â£29.99,-1,UK,instagram,Card,Completed,No,27,yes
 5094,Freya Conti,freya.conti85@outlok.com,15-Apr-24,Cap,Clothing,29.99,2,GB,Email,Apple Pay,Pending,FALSE,unknown,TRUE
 5095,Amelia Keller,amelia.keller53@,02/02/2024,Hoodie,Clothing,N/A,1,United Kingdom,Email,Card,Completed,TRUE,unknown,yes
-5096,Jakub Esposito,jakub.esposito33mail.com,23/01/2024,Trainers,Accessories,£29.99,1,uk,Instagram,Google Pay,Cancelled,TRUE,,TRUE
-5097,Zara Ricci,zara.ricci63hotmail.com,05/02/2024,Trainers,Clothing,£29.99,1,UK,Instagram,Card,Cancelled,No,22,yes
+5096,Jakub Esposito,jakub.esposito33mail.com,23/01/2024,Trainers,Accessories,Â£29.99,1,uk,Instagram,Google Pay,Cancelled,TRUE,,TRUE
+5097,Zara Ricci,zara.ricci63hotmail.com,05/02/2024,Trainers,Clothing,Â£29.99,1,UK,Instagram,Card,Cancelled,No,22,yes
 5098,Theo Smith  ,theo.smith41@@mail.com,23-Apr-24,Running Shoes,Clothing,55,2,GB,TikTok,Google Pay,Cancelled,TRUE,27,FALSE
-5099,Chloe Ivanov  ,chloe.ivanov91 @outlook.com,17/02/2024,Denim Jacket,Accessories,£60.00,0,uk,Facebook,Apple Pay,Pending,TRUE,27,FALSE
+5099,Chloe Ivanov  ,chloe.ivanov91 @outlook.com,17/02/2024,Denim Jacket,Accessories,Â£60.00,0,uk,Facebook,Apple Pay,Pending,TRUE,27,FALSE
 5100,Hannah Muller ,hannah.muller22@@gmail.com,07-Feb-24,Cap,Accessories,29.99,0,UK,Facebook,PayPal,Cancelled,Yes,34,yes
-5101,Jonah Fischer,jonah.fischer13 @mail.com,15/03/2024,Trainers,Footwear,£29.99,3,GB,Email,PayPal,Pending,No,,TRUE
-5102,Amir Nowak  ,amir.nowak60@gmail.com,16-Jan-24,Running Shoes,Footwear,£60.00,2,UK,instagram,PayPal,Pending,No,27,FALSE
+5101,Jonah Fischer,jonah.fischer13 @mail.com,15/03/2024,Trainers,Footwear,Â£29.99,3,GB,Email,PayPal,Pending,No,,TRUE
+5102,Amir Nowak  ,amir.nowak60@gmail.com,16-Jan-24,Running Shoes,Footwear,Â£60.00,2,UK,instagram,PayPal,Pending,No,27,FALSE
 5103,Emre Patel ,emre.patel53@@gmail.com,09/01/2024,Denim Jacket,Clothing,N/A,3,GB,email,PayPal,Pending,TRUE,34,TRUE
-5104,Oscar Smith  ,oscar.smith61@gmal.com,12/02/2024,Graphic Tee,Accessories,£29.99,3,United Kingdom,instagram,Google Pay,Cancelled,TRUE,18,FALSE
+5104,Oscar Smith  ,oscar.smith61@gmal.com,12/02/2024,Graphic Tee,Accessories,Â£29.99,3,United Kingdom,instagram,Google Pay,Cancelled,TRUE,18,FALSE
 5105,Tom Petrov ,tom.petrov59@@mail.com,19-Mar-24,Running Shoes,Accessories,55,3,UK,Instagram,PayPal,Cancelled,TRUE,22,FALSE
-5106,Oscar Hassan,oscar.hassan11 @company.co,06/01/2024,Trainers,Accessories,£29.99,1,GB,Facebook,Apple Pay,Pending,N,34,TRUE
-5107,Oscar Dubois ,oscar.dubois25@,27/02/2024,Running Shoes,Accessories,£29.99,0,UK,TikTok,Card,Completed,Yes,34,FALSE
+5106,Oscar Hassan,oscar.hassan11 @company.co,06/01/2024,Trainers,Accessories,Â£29.99,1,GB,Facebook,Apple Pay,Pending,N,34,TRUE
+5107,Oscar Dubois ,oscar.dubois25@,27/02/2024,Running Shoes,Accessories,Â£29.99,0,UK,TikTok,Card,Completed,Yes,34,FALSE
 5108,Isla Ali  ,isla.ali18@@outlook.com,29/03/2024,Cap,Clothing,N/A,-1,uk,Email,Card,Pending,N,18,TRUE
-5109,Jakub Martinez ,jakub.martinez91 @gmail.com,27-Feb-24,Denim Jacket,Accessories,£60.00,2,GB,Instagram,Card,Completed,FALSE,27,FALSE
-5110,Clara Chen ,clara.chen60company.co,2024.04.18,Trainers,Footwear,£45,2,U.K.,email,Google Pay,Completed,Yes,unknown,yes
-5111,Mila Brown  ,mila.brown89@@hotmail.com,16/03/2024,Trainers,Footwear,£45,3,uk,instagram,Apple Pay,Completed,Yes,22,no
+5109,Jakub Martinez ,jakub.martinez91 @gmail.com,27-Feb-24,Denim Jacket,Accessories,Â£60.00,2,GB,Instagram,Card,Completed,FALSE,27,FALSE
+5110,Clara Chen ,clara.chen60company.co,2024.04.18,Trainers,Footwear,Â£45,2,U.K.,email,Google Pay,Completed,Yes,unknown,yes
+5111,Mila Brown  ,mila.brown89@@hotmail.com,16/03/2024,Trainers,Footwear,Â£45,3,uk,instagram,Apple Pay,Completed,Yes,22,no
 5112,Layla Hassan  ,layla.hassan45hotmail.com,2024.01.26,Graphic Tee,Accessories,N/A,-1,UK,instagram,PayPal,Cancelled,TRUE,,TRUE
-5113,Noah Ali  ,noah.ali96hotmail.com,18-Feb-24,Graphic Tee,Footwear,£29.99,2,uk,Facebook,Google Pay,Completed,No,27,FALSE
+5113,Noah Ali  ,noah.ali96hotmail.com,18-Feb-24,Graphic Tee,Footwear,Â£29.99,2,uk,Facebook,Google Pay,Completed,No,27,FALSE
 5114,Amelia Johnson ,amelia.johnson39@outlok.com,31-Jan-24,Denim Jacket,Accessories,55,-1,GB,Instagram,Apple Pay,Refunded,N,unknown,TRUE
 5115,Ethan Muller,ethan.muller74@@gmail.com,10/02/2024,Hoodie,Clothing,29.99,0,United Kingdom,Instagram,PayPal,Cancelled,Yes,,FALSE
 5116,Ravi Nielsen,ravi.nielsen92@,16-Feb-24,Running Shoes,Accessories,29.99,2,UK,email,Apple Pay,Cancelled,N,unknown,no
 5117,Hannah Johnson  ,hannah.johnson40@hotnail.com,28/04/2024,Denim Jacket,Accessories,29.99,0,United Kingdom,email,Card,Cancelled,No,41,FALSE
-5118,Leo Brown,leobrown@mail.com,30/04/2024,Graphic Tee,Footwear,£60.00,3,uk,Facebook,Card,Completed,No,27,TRUE
+5118,Leo Brown,leobrown@mail.com,30/04/2024,Graphic Tee,Footwear,Â£60.00,3,uk,Facebook,Card,Completed,No,27,TRUE
 5119,Noah Nguyen ,noah.nguyen53mail.com,19/04/2024,Graphic Tee,Clothing,55,1,uk,Email,Card,Refunded,Yes,18,no
-5120,Layla Schmidt,layla.schmidt51@hotnail.com,2024.03.19,Trainers,Clothing,£29.99,2,U.K.,instagram,PayPal,Completed,Yes,27,FALSE
+5120,Layla Schmidt,layla.schmidt51@hotnail.com,2024.03.19,Trainers,Clothing,Â£29.99,2,U.K.,instagram,PayPal,Completed,Yes,27,FALSE
 5121,Sara Sato,sara.sato64@hotnail.com,20/04/2024,Hoodie,Accessories,N/A,3,UK,Instagram,Card,Refunded,FALSE,unknown,FALSE
-5122,Jonas Esposito  ,jonas.esposito85@hotnail.com,03-Jan-24,Graphic Tee,Footwear,£45,3,UK,Facebook,Google Pay,Refunded,TRUE,34,TRUE
+5122,Jonas Esposito  ,jonas.esposito85@hotnail.com,03-Jan-24,Graphic Tee,Footwear,Â£45,3,UK,Facebook,Google Pay,Refunded,TRUE,34,TRUE
 5123,Amelia Muller ,amelia.muller57 @mail.com,20/02/2024,Running Shoes,Clothing,N/A,0,UK,TikTok,Google Pay,Cancelled,No,41,TRUE
-5124,Yusuf Petrov,yusuf.petrov14gmail.com,2024.04.27,Running Shoes,Clothing,£29.99,3,UK,TikTok,Apple Pay,Completed,Yes,unknown,TRUE
-5125,Leo Silva  ,leo.silva43@,16-Jan-24,Denim Jacket,Accessories,£45,2,GB,Email,Card,Refunded,N,,no
+5124,Yusuf Petrov,yusuf.petrov14gmail.com,2024.04.27,Running Shoes,Clothing,Â£29.99,3,UK,TikTok,Apple Pay,Completed,Yes,unknown,TRUE
+5125,Leo Silva  ,leo.silva43@,16-Jan-24,Denim Jacket,Accessories,Â£45,2,GB,Email,Card,Refunded,N,,no
 5126,Liam Nielsen ,liam.nielsen30@outlook.com,07-Jan-24,Trainers,Accessories,29.99,-1,uk,email,Card,Completed,Yes,27,TRUE
-5127,Mila Kovacs  ,mila.kovacs37@@outlook.com,10/04/2024,Hoodie,Clothing,£60.00,1,United Kingdom,Email,Card,Refunded,Yes,27,no
+5127,Mila Kovacs  ,mila.kovacs37@@outlook.com,10/04/2024,Hoodie,Clothing,Â£60.00,1,United Kingdom,Email,Card,Refunded,Yes,27,no
 5128,Isla Rossi,isla.rossi63@hotmail.com,2024.01.15,Graphic Tee,Footwear,55,1,uk,Instagram,Card,Cancelled,Yes,unknown,FALSE
 5129,Daniel Fischer ,daniel.fischer34hotmail.com,23/04/2024,Hoodie,Accessories,29.99,2,GB,Email,Google Pay,Completed,N,unknown,no
 5130,Ethan Esposito ,ethan.esposito81outlook.com,14-Feb-24,Graphic Tee,Accessories,N/A,2,UK,Instagram,Apple Pay,Completed,TRUE,unknown,FALSE
-5131,Jonas Conti ,jonas.conti94 @company.co,2024.04.06,Cap,Accessories,£60.00,1,United Kingdom,instagram,Card,Refunded,Y,,no
-5132,Fatima Rossi  ,fatima.rossi93 @hotmail.com,13/01/2024,Graphic Tee,Clothing,£45,-1,uk,TikTok,Google Pay,Pending,FALSE,34,yes
-5133,Jakub Novak  ,jakub.novak37company.co,12-Apr-24,Trainers,Clothing,£45,0,GB,Instagram,PayPal,Cancelled,No,34,yes
+5131,Jonas Conti ,jonas.conti94 @company.co,2024.04.06,Cap,Accessories,Â£60.00,1,United Kingdom,instagram,Card,Refunded,Y,,no
+5132,Fatima Rossi  ,fatima.rossi93 @hotmail.com,13/01/2024,Graphic Tee,Clothing,Â£45,-1,uk,TikTok,Google Pay,Pending,FALSE,34,yes
+5133,Jakub Novak  ,jakub.novak37company.co,12-Apr-24,Trainers,Clothing,Â£45,0,GB,Instagram,PayPal,Cancelled,No,34,yes
 5134,Hannah Berg ,hannah.berg65@@company.co,18/01/2024,Running Shoes,Accessories,55,-1,GB,Email,PayPal,Cancelled,Yes,unknown,FALSE
-5135,Mila Nguyen ,mila.nguyen23 @gmail.com,22-Feb-24,Cap,Accessories,£60.00,0,U.K.,Email,Google Pay,Completed,Y,22,TRUE
+5135,Mila Nguyen ,mila.nguyen23 @gmail.com,22-Feb-24,Cap,Accessories,Â£60.00,0,U.K.,Email,Google Pay,Completed,Y,22,TRUE
 5136,Leo Papadopoulos ,leo.papadopoulos54gmail.com,30/04/2024,Cap,Footwear,55,2,U.K.,TikTok,Apple Pay,Cancelled,Y,41,FALSE
 5137,Julien Brown,julienbrown@mail.com,2024.02.10,Running Shoes,Footwear,55,3,United Kingdom,Instagram,Apple Pay,Pending,No,18,TRUE
-5138,Tom Conti ,tom.conti85@@outlook.com,25/04/2024,Graphic Tee,Footwear,£60.00,2,UK,Facebook,Google Pay,Completed,No,,TRUE
-5139,Ravi Chen,ravi.chen69 @company.co,2024.03.08,Cap,Accessories,£60.00,-1,GB,Facebook,Apple Pay,Cancelled,No,18,FALSE
+5138,Tom Conti ,tom.conti85@@outlook.com,25/04/2024,Graphic Tee,Footwear,Â£60.00,2,UK,Facebook,Google Pay,Completed,No,,TRUE
+5139,Ravi Chen,ravi.chen69 @company.co,2024.03.08,Cap,Accessories,Â£60.00,-1,GB,Facebook,Apple Pay,Cancelled,No,18,FALSE
 5140,Ethan Fischer  ,ethan.fischer87company.co,08-Feb-24,Cap,Accessories,N/A,2,uk,instagram,Google Pay,Cancelled,TRUE,18,TRUE
 5141,Daniel Brown ,daniel.brown23@outlok.com,01/04/2024,Graphic Tee,Footwear,29.99,0,GB,email,Apple Pay,Completed,Y,22,FALSE
-5142,Oliver Dubois,oliver.dubois24 @hotmail.com,28/01/2024,Hoodie,Accessories,£45,-1,uk,Instagram,Google Pay,Pending,TRUE,34,FALSE
-5143,Arjun Ivanov  ,arjun.ivanov29 @outlook.com,2024.04.20,Denim Jacket,Clothing,£29.99,0,U.K.,Instagram,PayPal,Refunded,FALSE,27,no
+5142,Oliver Dubois,oliver.dubois24 @hotmail.com,28/01/2024,Hoodie,Accessories,Â£45,-1,uk,Instagram,Google Pay,Pending,TRUE,34,FALSE
+5143,Arjun Ivanov  ,arjun.ivanov29 @outlook.com,2024.04.20,Denim Jacket,Clothing,Â£29.99,0,U.K.,Instagram,PayPal,Refunded,FALSE,27,no
 5144,Leila Ricci ,leila.ricci80hotmail.com,30-Apr-24,Trainers,Clothing,N/A,2,UK,Email,PayPal,Completed,Yes,unknown,TRUE
-5145,Ava Nguyen,avanguyen@hotmail.com,27/02/2024,Trainers,Footwear,£29.99,1,GB,Email,Apple Pay,Pending,FALSE,unknown,TRUE
-5146,Jakub Hassan  ,jakub.hassan42@outlok.com,23-Feb-24,Hoodie,Footwear,£29.99,1,U.K.,TikTok,Google Pay,Completed,N,34,no
+5145,Ava Nguyen,avanguyen@hotmail.com,27/02/2024,Trainers,Footwear,Â£29.99,1,GB,Email,Apple Pay,Pending,FALSE,unknown,TRUE
+5146,Jakub Hassan  ,jakub.hassan42@outlok.com,23-Feb-24,Hoodie,Footwear,Â£29.99,1,U.K.,TikTok,Google Pay,Completed,N,34,no
 5147,Ibrahim Ricci  ,ibrahim.ricci27gmail.com,10/03/2024,Running Shoes,Accessories,55,-1,UK,Email,Apple Pay,Pending,TRUE,34,TRUE
 5148,Leo Smith ,leosmith@hotmail.com,15-Mar-24,Cap,Clothing,N/A,-1,uk,TikTok,PayPal,Cancelled,N,unknown,TRUE
-5149,Marco Popescu,marco.popescu19@outlok.com,19/01/2024,Trainers,Clothing,£29.99,-1,UK,TikTok,Google Pay,Cancelled,N,unknown,TRUE
+5149,Marco Popescu,marco.popescu19@outlok.com,19/01/2024,Trainers,Clothing,Â£29.99,-1,UK,TikTok,Google Pay,Cancelled,N,unknown,TRUE
 5150,Layla Fischer  ,layla.fischer22@gmal.com,30-Mar-24,Denim Jacket,Clothing,29.99,3,United Kingdom,Instagram,Apple Pay,Pending,N,unknown,TRUE
-5151,Nadia Muller ,nadia.muller30 @hotmail.com,06/04/2024,Cap,Clothing,£60.00,1,United Kingdom,Facebook,Card,Completed,TRUE,27,FALSE
-5152,Hannah OConnor,hannah.oconnor24@hotnail.com,05/02/2024,Graphic Tee,Footwear,£29.99,1,United Kingdom,Email,Card,Cancelled,Yes,18,TRUE
+5151,Nadia Muller ,nadia.muller30 @hotmail.com,06/04/2024,Cap,Clothing,Â£60.00,1,United Kingdom,Facebook,Card,Completed,TRUE,27,FALSE
+5152,Hannah OConnor,hannah.oconnor24@hotnail.com,05/02/2024,Graphic Tee,Footwear,Â£29.99,1,United Kingdom,Email,Card,Cancelled,Yes,18,TRUE
 5153,Yusuf Esposito,yusuf.esposito61@gmal.com,19-Mar-24,Running Shoes,Clothing,29.99,1,UK,Instagram,Apple Pay,Refunded,Yes,34,FALSE
 5154,Ines Rossi ,inesrossi@outlook.com,26-Apr-24,Running Shoes,Footwear,55,1,UK,TikTok,PayPal,Pending,Y,22,TRUE
-5155,Hannah Conti ,hannahconti@outlook.com,2024.03.22,Denim Jacket,Footwear,£45,1,UK,instagram,Google Pay,Cancelled,N,18,TRUE
-5156,Maya Schmidt,maya.schmidt45@hotnail.com,11/04/2024,Hoodie,Accessories,£45,2,UK,instagram,Google Pay,Refunded,FALSE,22,FALSE
+5155,Hannah Conti ,hannahconti@outlook.com,2024.03.22,Denim Jacket,Footwear,Â£45,1,UK,instagram,Google Pay,Cancelled,N,18,TRUE
+5156,Maya Schmidt,maya.schmidt45@hotnail.com,11/04/2024,Hoodie,Accessories,Â£45,2,UK,instagram,Google Pay,Refunded,FALSE,22,FALSE
 5157,Daniel Popescu,daniel.popescu84@@outlook.com,14/04/2024,Hoodie,Accessories,N/A,0,U.K.,TikTok,PayPal,Cancelled,Yes,34,FALSE
-5158,Ravi Esposito,raviesposito@company.co,26-Feb-24,Graphic Tee,Footwear,£29.99,0,United Kingdom,instagram,PayPal,Pending,Y,41,FALSE
-5159,Daniel Kim ,daniel.kim78gmail.com,08/01/2024,Hoodie,Accessories,£29.99,1,United Kingdom,email,Google Pay,Cancelled,Yes,,yes
-5160,Ava Moretti  ,ava.moretti52@hotmail.com,2024.01.11,Graphic Tee,Footwear,£60.00,3,U.K.,email,Card,Pending,N,unknown,yes
-5161,Arjun Nguyen ,arjun.nguyen47@@gmail.com,18-Apr-24,Trainers,Accessories,£60.00,2,United Kingdom,email,Apple Pay,Completed,Yes,18,yes
-5162,Jonas Hassan,jonas.hassan17 @hotmail.com,25/02/2024,Trainers,Accessories,£45,3,GB,Facebook,Card,Completed,FALSE,27,no
-5163,Elena Papadopoulos,elena.papadopoulos25@hotmail.com,2024.04.01,Running Shoes,Footwear,£45,-1,GB,instagram,Google Pay,Refunded,No,,yes
+5158,Ravi Esposito,raviesposito@company.co,26-Feb-24,Graphic Tee,Footwear,Â£29.99,0,United Kingdom,instagram,PayPal,Pending,Y,41,FALSE
+5159,Daniel Kim ,daniel.kim78gmail.com,08/01/2024,Hoodie,Accessories,Â£29.99,1,United Kingdom,email,Google Pay,Cancelled,Yes,,yes
+5160,Ava Moretti  ,ava.moretti52@hotmail.com,2024.01.11,Graphic Tee,Footwear,Â£60.00,3,U.K.,email,Card,Pending,N,unknown,yes
+5161,Arjun Nguyen ,arjun.nguyen47@@gmail.com,18-Apr-24,Trainers,Accessories,Â£60.00,2,United Kingdom,email,Apple Pay,Completed,Yes,18,yes
+5162,Jonas Hassan,jonas.hassan17 @hotmail.com,25/02/2024,Trainers,Accessories,Â£45,3,GB,Facebook,Card,Completed,FALSE,27,no
+5163,Elena Papadopoulos,elena.papadopoulos25@hotmail.com,2024.04.01,Running Shoes,Footwear,Â£45,-1,GB,instagram,Google Pay,Refunded,No,,yes
 5164,Tomas Weber ,tomas.weber82 @mail.com,2024.03.02,Denim Jacket,Footwear,N/A,0,United Kingdom,Facebook,Google Pay,Completed,Yes,,yes
-5165,Liam Thompson  ,liam.thompson73@outlok.com,30-Jan-24,Hoodie,Footwear,£60.00,-1,UK,TikTok,PayPal,Refunded,No,27,FALSE
+5165,Liam Thompson  ,liam.thompson73@outlok.com,30-Jan-24,Hoodie,Footwear,Â£60.00,-1,UK,TikTok,PayPal,Refunded,No,27,FALSE
 5166,Priya Popescu ,priya.popescu41@,2024.04.12,Hoodie,Footwear,55,0,GB,Facebook,Apple Pay,Refunded,Yes,unknown,no
-5167,Isla Hassan  ,isla.hassan62@@company.co,2024.02.25,Cap,Clothing,£60.00,0,uk,instagram,Apple Pay,Completed,Yes,18,FALSE
+5167,Isla Hassan  ,isla.hassan62@@company.co,2024.02.25,Cap,Clothing,Â£60.00,0,uk,instagram,Apple Pay,Completed,Yes,18,FALSE
 5168,Chloe OConnor  ,chloe.oconnor60@,26-Apr-24,Graphic Tee,Clothing,55,3,uk,instagram,Google Pay,Cancelled,No,22,no
 5169,Amelia Weber ,amelia.weber26hotmail.com,06/03/2024,Denim Jacket,Footwear,N/A,-1,U.K.,Email,Apple Pay,Pending,FALSE,41,TRUE
-5170,Amelia Wright  ,amelia.wright50 @hotmail.com,26-Jan-24,Graphic Tee,Footwear,£60.00,2,uk,Facebook,Apple Pay,Completed,Y,18,no
+5170,Amelia Wright  ,amelia.wright50 @hotmail.com,26-Jan-24,Graphic Tee,Footwear,Â£60.00,2,uk,Facebook,Apple Pay,Completed,Y,18,no
 5171,Ethan Kim,ethankim@mail.com,2024.04.02,Hoodie,Footwear,N/A,1,uk,email,Card,Refunded,N,27,FALSE
-5172,Khalid Sato  ,khalid.sato61 @mail.com,13/03/2024,Denim Jacket,Clothing,£60.00,1,United Kingdom,Email,Google Pay,Refunded,TRUE,41,no
-5173,Khalid Patel ,khalidpatel@mail.com,07/01/2024,Hoodie,Accessories,£29.99,0,U.K.,instagram,Google Pay,Refunded,Y,27,no
+5172,Khalid Sato  ,khalid.sato61 @mail.com,13/03/2024,Denim Jacket,Clothing,Â£60.00,1,United Kingdom,Email,Google Pay,Refunded,TRUE,41,no
+5173,Khalid Patel ,khalidpatel@mail.com,07/01/2024,Hoodie,Accessories,Â£29.99,0,U.K.,instagram,Google Pay,Refunded,Y,27,no
 5174,Ravi Weber  ,ravi.weber47outlook.com,16/01/2024,Trainers,Footwear,29.99,1,uk,Email,Google Pay,Refunded,TRUE,unknown,no
 5175,Ethan Chen  ,ethan.chen75hotmail.com,2024.04.08,Hoodie,Accessories,29.99,2,U.K.,TikTok,Apple Pay,Cancelled,Yes,34,no
-5176,Hannah Wright  ,hannahwright@outlook.com,2024.02.27,Trainers,Clothing,£29.99,-1,GB,Instagram,Apple Pay,Pending,No,34,TRUE
-5177,Noah Ricci,noahricci@outlook.com,08/04/2024,Cap,Accessories,£60.00,1,United Kingdom,email,Apple Pay,Pending,No,18,TRUE
+5176,Hannah Wright  ,hannahwright@outlook.com,2024.02.27,Trainers,Clothing,Â£29.99,-1,GB,Instagram,Apple Pay,Pending,No,34,TRUE
+5177,Noah Ricci,noahricci@outlook.com,08/04/2024,Cap,Accessories,Â£60.00,1,United Kingdom,email,Apple Pay,Pending,No,18,TRUE
 5178,Elena Brown ,elena.brown26@hotmail.com,2024.04.01,Running Shoes,Footwear,N/A,-1,U.K.,Facebook,Google Pay,Pending,Yes,41,yes
-5179,Ben Schmidt ,ben.schmidt85hotmail.com,01-Apr-24,Graphic Tee,Accessories,£45,3,GB,Email,PayPal,Completed,N,41,TRUE
-5180,Fatima Keller,fatima.keller15@mail.com,02/04/2024,Denim Jacket,Footwear,£45,2,UK,TikTok,Card,Cancelled,Y,unknown,FALSE
-5181,Amelia Nielsen  ,amelia.nielsen52@,13-Apr-24,Denim Jacket,Clothing,£45,0,United Kingdom,email,Google Pay,Completed,Yes,41,TRUE
+5179,Ben Schmidt ,ben.schmidt85hotmail.com,01-Apr-24,Graphic Tee,Accessories,Â£45,3,GB,Email,PayPal,Completed,N,41,TRUE
+5180,Fatima Keller,fatima.keller15@mail.com,02/04/2024,Denim Jacket,Footwear,Â£45,2,UK,TikTok,Card,Cancelled,Y,unknown,FALSE
+5181,Amelia Nielsen  ,amelia.nielsen52@,13-Apr-24,Denim Jacket,Clothing,Â£45,0,United Kingdom,email,Google Pay,Completed,Yes,41,TRUE
 5182,Isla Nguyen ,isla.nguyen28@@hotmail.com,17/02/2024,Trainers,Footwear,N/A,2,United Kingdom,Instagram,Apple Pay,Cancelled,TRUE,34,no
 5183,Ben Popescu  ,ben.popescu62@hotnail.com,14-Feb-24,Running Shoes,Accessories,N/A,0,United Kingdom,Email,Google Pay,Completed,No,,FALSE
 5184,Callum Nielsen,callumnielsen@outlook.com,2024.04.10,Cap,Clothing,29.99,-1,GB,email,Card,Refunded,FALSE,18,TRUE
 5185,Ethan Khan  ,ethan.khan38@,18-Feb-24,Graphic Tee,Clothing,N/A,3,GB,Instagram,Google Pay,Completed,FALSE,,FALSE
-5186,Noah Martinez  ,noah.martinez52 @gmail.com,2024.04.10,Denim Jacket,Footwear,£29.99,2,GB,Facebook,PayPal,Refunded,Y,27,FALSE
-5187,Liam Popescu  ,liam.popescu41@gmail.com,18-Jan-24,Hoodie,Accessories,£45,-1,U.K.,Instagram,Apple Pay,Completed,FALSE,,yes
+5186,Noah Martinez  ,noah.martinez52 @gmail.com,2024.04.10,Denim Jacket,Footwear,Â£29.99,2,GB,Facebook,PayPal,Refunded,Y,27,FALSE
+5187,Liam Popescu  ,liam.popescu41@gmail.com,18-Jan-24,Hoodie,Accessories,Â£45,-1,U.K.,Instagram,Apple Pay,Completed,FALSE,,yes
 5188,Harper Brown,harperbrown@outlook.com,2024.01.03,Graphic Tee,Accessories,29.99,2,UK,TikTok,Card,Cancelled,Y,34,no
-5189,Jonas Chen,jonas.chen83@company.co,15/04/2024,Hoodie,Clothing,£60.00,1,U.K.,email,Card,Pending,TRUE,34,TRUE
-5190,Yusuf Thompson ,yusuf.thompson70@hotnail.com,2024.02.14,Denim Jacket,Clothing,£29.99,2,U.K.,email,Apple Pay,Cancelled,TRUE,27,FALSE
+5189,Jonas Chen,jonas.chen83@company.co,15/04/2024,Hoodie,Clothing,Â£60.00,1,U.K.,email,Card,Pending,TRUE,34,TRUE
+5190,Yusuf Thompson ,yusuf.thompson70@hotnail.com,2024.02.14,Denim Jacket,Clothing,Â£29.99,2,U.K.,email,Apple Pay,Cancelled,TRUE,27,FALSE
 5191,Alina Chen,alinachen@hotmail.com,24/01/2024,Graphic Tee,Accessories,29.99,-1,uk,Email,Card,Refunded,Y,22,no
-5192,Ava Novak ,ava.novak63@outlok.com,06-Apr-24,Hoodie,Accessories,£29.99,-1,GB,email,PayPal,Cancelled,No,34,no
-5193,Zara Schmidt,zara.schmidt28@,2024.01.08,Running Shoes,Clothing,£45,-1,UK,instagram,Google Pay,Completed,Y,41,FALSE
+5192,Ava Novak ,ava.novak63@outlok.com,06-Apr-24,Hoodie,Accessories,Â£29.99,-1,GB,email,PayPal,Cancelled,No,34,no
+5193,Zara Schmidt,zara.schmidt28@,2024.01.08,Running Shoes,Clothing,Â£45,-1,UK,instagram,Google Pay,Completed,Y,41,FALSE
 5194,Fatima Ali,fatima.ali39gmail.com,2024.04.02,Running Shoes,Clothing,N/A,3,uk,instagram,Google Pay,Pending,FALSE,unknown,TRUE
 5195,Jonas Schmidt,jonas.schmidt61@,03/02/2024,Denim Jacket,Footwear,29.99,1,GB,Instagram,Apple Pay,Pending,Y,,no
-5196,Yusuf Popescu ,yusuf.popescu67@company.co,14/01/2024,Trainers,Footwear,£45,3,U.K.,Email,Apple Pay,Cancelled,No,unknown,TRUE
+5196,Yusuf Popescu ,yusuf.popescu67@company.co,14/01/2024,Trainers,Footwear,Â£45,3,U.K.,Email,Apple Pay,Cancelled,No,unknown,TRUE
 5197,Alina Popescu  ,alina.popescu50@@hotmail.com,2024.04.27,Graphic Tee,Accessories,29.99,3,U.K.,Facebook,Apple Pay,Pending,TRUE,18,TRUE
-5198,Anika Nielsen  ,anika.nielsen66mail.com,2024.02.02,Running Shoes,Clothing,£29.99,-1,United Kingdom,instagram,Google Pay,Completed,Y,34,TRUE
+5198,Anika Nielsen  ,anika.nielsen66mail.com,2024.02.02,Running Shoes,Clothing,Â£29.99,-1,United Kingdom,instagram,Google Pay,Completed,Y,34,TRUE
 5199,Liam Conti ,liam.conti89company.co,2024.01.09,Graphic Tee,Footwear,29.99,0,United Kingdom,email,Card,Completed,FALSE,,TRUE
 5200,Ethan Thompson ,ethan.thompson67 @hotmail.com,10-Apr-24,Graphic Tee,Clothing,55,2,GB,Email,Google Pay,Completed,FALSE,,TRUE
 5201,Amir Brown ,amir.brown94@@hotmail.com,16-Mar-24,Denim Jacket,Clothing,29.99,0,UK,Facebook,Apple Pay,Completed,No,18,TRUE
 5202,Yusuf Fischer,yusuf.fischer64hotmail.com,13/03/2024,Graphic Tee,Clothing,N/A,1,U.K.,instagram,PayPal,Pending,N,unknown,TRUE
-5203,Leo Wright,leo.wright87 @hotmail.com,12-Feb-24,Cap,Accessories,£45,3,UK,Email,Card,Refunded,FALSE,34,yes
+5203,Leo Wright,leo.wright87 @hotmail.com,12-Feb-24,Cap,Accessories,Â£45,3,UK,Email,Card,Refunded,FALSE,34,yes
 5204,Clara Smith,clara.smith36@outlok.com,06/04/2024,Denim Jacket,Accessories,N/A,2,United Kingdom,Facebook,Apple Pay,Completed,Y,27,TRUE
 5205,Elena Novak,elena.novak63@hotnail.com,14/04/2024,Hoodie,Footwear,29.99,1,uk,email,Apple Pay,Completed,Y,27,yes
-5206,Amir Rossi ,amir.rossi69@@company.co,2024.04.20,Running Shoes,Accessories,£45,1,U.K.,instagram,Google Pay,Cancelled,FALSE,34,FALSE
+5206,Amir Rossi ,amir.rossi69@@company.co,2024.04.20,Running Shoes,Accessories,Â£45,1,U.K.,instagram,Google Pay,Cancelled,FALSE,34,FALSE
 5207,Sebastian Nguyen  ,sebastian.nguyen78@gmal.com,2024.03.11,Cap,Clothing,29.99,1,U.K.,Instagram,PayPal,Cancelled,TRUE,27,FALSE
 5208,Sara Chen ,sara.chen84@,19-Mar-24,Cap,Accessories,N/A,2,uk,Instagram,PayPal,Cancelled,FALSE,,FALSE
 5209,Lucas Novak  ,lucas.novak38@hotmail.com,10/04/2024,Cap,Accessories,55,3,U.K.,TikTok,Apple Pay,Refunded,Y,,FALSE
 5210,Alina Wright,alina.wright22@hotnail.com,2024.04.10,Trainers,Clothing,N/A,2,uk,instagram,PayPal,Cancelled,No,34,TRUE
-5211,Priya Sato ,priya.sato55@,04/03/2024,Running Shoes,Footwear,£45,0,U.K.,Instagram,Card,Completed,TRUE,34,TRUE
+5211,Priya Sato ,priya.sato55@,04/03/2024,Running Shoes,Footwear,Â£45,0,U.K.,Instagram,Card,Completed,TRUE,34,TRUE
 5212,Ava Chen,ava.chen74@gmal.com,25-Jan-24,Cap,Clothing,N/A,3,UK,TikTok,PayPal,Pending,TRUE,41,yes
 5213,Daniel Nowak ,danielnowak@gmail.com,02/01/2024,Cap,Footwear,29.99,1,uk,Email,Apple Pay,Cancelled,Y,22,no
 5214,Anika Silva,anika.silva70@gmal.com,27-Apr-24,Cap,Clothing,29.99,1,uk,Facebook,Card,Cancelled,No,27,TRUE
-5215,Marco Esposito,marco.esposito79@hotmail.com,2024.03.16,Hoodie,Clothing,£29.99,1,UK,Email,Google Pay,Cancelled,TRUE,34,FALSE
-5216,Marco Smith,marco.smith67@gmal.com,2024.03.26,Cap,Footwear,£29.99,-1,United Kingdom,instagram,Google Pay,Cancelled,No,18,TRUE
+5215,Marco Esposito,marco.esposito79@hotmail.com,2024.03.16,Hoodie,Clothing,Â£29.99,1,UK,Email,Google Pay,Cancelled,TRUE,34,FALSE
+5216,Marco Smith,marco.smith67@gmal.com,2024.03.26,Cap,Footwear,Â£29.99,-1,United Kingdom,instagram,Google Pay,Cancelled,No,18,TRUE
 5217,Yusuf Novak  ,yusuf.novak12@gmal.com,31/01/2024,Hoodie,Clothing,N/A,3,uk,Email,Apple Pay,Cancelled,No,41,FALSE
 5218,Ava Ali ,ava.ali32hotmail.com,03-Jan-24,Hoodie,Footwear,55,-1,uk,instagram,Google Pay,Refunded,TRUE,34,FALSE
 5219,Tom Wright,tom.wright26mail.com,30/04/2024,Graphic Tee,Footwear,29.99,2,UK,instagram,PayPal,Pending,No,22,yes
-5220,Harper Lopez,harperlopez@hotmail.com,29/03/2024,Cap,Clothing,£29.99,-1,U.K.,Email,Apple Pay,Pending,Y,22,FALSE
-5221,Priya Nielsen,priya.nielsen95@outlook.com,2024.03.11,Hoodie,Accessories,£45,0,GB,instagram,Google Pay,Pending,N,34,no
+5220,Harper Lopez,harperlopez@hotmail.com,29/03/2024,Cap,Clothing,Â£29.99,-1,U.K.,Email,Apple Pay,Pending,Y,22,FALSE
+5221,Priya Nielsen,priya.nielsen95@outlook.com,2024.03.11,Hoodie,Accessories,Â£45,0,GB,instagram,Google Pay,Pending,N,34,no
 5222,Jonah Muller  ,jonah.muller70@outlok.com,30/01/2024,Graphic Tee,Footwear,29.99,3,United Kingdom,Facebook,Card,Refunded,Yes,27,TRUE
 5223,Ethan Ivanov  ,ethan.ivanov90@outlok.com,17-Jan-24,Cap,Clothing,55,2,UK,Email,PayPal,Pending,No,41,FALSE
-5224,Chloe Schmidt ,chloe.schmidt81@outlok.com,20-Apr-24,Denim Jacket,Accessories,£45,3,uk,TikTok,Google Pay,Refunded,TRUE,41,FALSE
+5224,Chloe Schmidt ,chloe.schmidt81@outlok.com,20-Apr-24,Denim Jacket,Accessories,Â£45,3,uk,TikTok,Google Pay,Refunded,TRUE,41,FALSE
 5225,Jonas Muller ,jonasmuller@gmail.com,2024.01.12,Graphic Tee,Clothing,55,1,GB,instagram,Card,Refunded,N,22,TRUE
-5226,Anika Schmidt ,anika.schmidt63outlook.com,05/04/2024,Trainers,Accessories,£45,1,United Kingdom,Facebook,Apple Pay,Completed,N,27,TRUE
-5227,Alina Muller ,alina.muller50@@mail.com,2024.02.17,Trainers,Clothing,£29.99,-1,uk,email,Apple Pay,Cancelled,FALSE,22,FALSE
-5228,Zara OConnor ,zara.oconnor73 @company.co,08-Feb-24,Hoodie,Clothing,£45,0,uk,email,Apple Pay,Refunded,N,22,FALSE
+5226,Anika Schmidt ,anika.schmidt63outlook.com,05/04/2024,Trainers,Accessories,Â£45,1,United Kingdom,Facebook,Apple Pay,Completed,N,27,TRUE
+5227,Alina Muller ,alina.muller50@@mail.com,2024.02.17,Trainers,Clothing,Â£29.99,-1,uk,email,Apple Pay,Cancelled,FALSE,22,FALSE
+5228,Zara OConnor ,zara.oconnor73 @company.co,08-Feb-24,Hoodie,Clothing,Â£45,0,uk,email,Apple Pay,Refunded,N,22,FALSE
 5229,Daniel ONeil ,daniel.oneil59@@outlook.com,2024.02.01,Graphic Tee,Clothing,29.99,1,UK,TikTok,Card,Pending,Yes,22,yes
 5230,Khalid Nguyen,khalid.nguyen75outlook.com,01/01/2024,Running Shoes,Footwear,55,1,UK,Facebook,Card,Pending,Y,34,yes
-5231,Fatima Smith,fatima.smith35@,2024.04.28,Trainers,Footwear,£29.99,3,United Kingdom,TikTok,Google Pay,Cancelled,FALSE,41,yes
+5231,Fatima Smith,fatima.smith35@,2024.04.28,Trainers,Footwear,Â£29.99,3,United Kingdom,TikTok,Google Pay,Cancelled,FALSE,41,yes
 5232,Maya Ivanov  ,maya.ivanov65 @outlook.com,04-Mar-24,Running Shoes,Clothing,29.99,3,U.K.,TikTok,Apple Pay,Pending,No,41,yes
 5233,Khalid Hassan ,khalid.hassan94gmail.com,04/02/2024,Hoodie,Clothing,29.99,3,GB,instagram,PayPal,Refunded,TRUE,22,no
 5234,Fatima Ricci,fatima.ricci47@outlook.com,26/01/2024,Graphic Tee,Accessories,29.99,-1,uk,instagram,PayPal,Pending,No,27,yes
 5235,Layla Romano,layla.romano56@@hotmail.com,01/04/2024,Hoodie,Clothing,55,0,U.K.,Facebook,Card,Pending,Yes,34,FALSE
-5236,Ben Papadopoulos  ,ben.papadopoulos31@mail.com,13/03/2024,Hoodie,Footwear,£29.99,3,uk,TikTok,PayPal,Cancelled,No,27,FALSE
+5236,Ben Papadopoulos  ,ben.papadopoulos31@mail.com,13/03/2024,Hoodie,Footwear,Â£29.99,3,uk,TikTok,PayPal,Cancelled,No,27,FALSE
 5237,Tomas Esposito,tomas.esposito66gmail.com,05/02/2024,Denim Jacket,Accessories,N/A,3,U.K.,email,PayPal,Refunded,Y,18,FALSE
 5238,Leo Rossi ,leo.rossi19@outlok.com,12-Mar-24,Hoodie,Accessories,55,1,GB,Facebook,Google Pay,Completed,N,,TRUE
-5239,Jonah Johnson ,jonah.johnson35outlook.com,2024.01.13,Denim Jacket,Clothing,£29.99,3,United Kingdom,instagram,Apple Pay,Refunded,N,22,FALSE
-5240,Maya Khan  ,maya.khan25@@company.co,2024.01.24,Hoodie,Footwear,£29.99,3,uk,instagram,Card,Completed,No,unknown,no
-5241,Arjun Kim,arjun.kim44@company.co,2024.04.10,Hoodie,Footwear,£45,3,uk,Instagram,PayPal,Refunded,N,,FALSE
-5242,Zara Martinez ,zara.martinez73@outlook.com,2024.01.18,Running Shoes,Accessories,£45,2,U.K.,email,Apple Pay,Completed,N,22,yes
-5243,Harper Moretti  ,harper.moretti72@@hotmail.com,14/03/2024,Graphic Tee,Footwear,£45,3,U.K.,TikTok,Apple Pay,Cancelled,Yes,34,yes
+5239,Jonah Johnson ,jonah.johnson35outlook.com,2024.01.13,Denim Jacket,Clothing,Â£29.99,3,United Kingdom,instagram,Apple Pay,Refunded,N,22,FALSE
+5240,Maya Khan  ,maya.khan25@@company.co,2024.01.24,Hoodie,Footwear,Â£29.99,3,uk,instagram,Card,Completed,No,unknown,no
+5241,Arjun Kim,arjun.kim44@company.co,2024.04.10,Hoodie,Footwear,Â£45,3,uk,Instagram,PayPal,Refunded,N,,FALSE
+5242,Zara Martinez ,zara.martinez73@outlook.com,2024.01.18,Running Shoes,Accessories,Â£45,2,U.K.,email,Apple Pay,Completed,N,22,yes
+5243,Harper Moretti  ,harper.moretti72@@hotmail.com,14/03/2024,Graphic Tee,Footwear,Â£45,3,U.K.,TikTok,Apple Pay,Cancelled,Yes,34,yes
 5244,Elena Ali ,elena.ali78@gmal.com,30/03/2024,Hoodie,Footwear,N/A,0,uk,email,Apple Pay,Completed,No,27,TRUE
 5245,Zara Berg ,zaraberg@outlook.com,2024.03.08,Cap,Accessories,29.99,2,UK,TikTok,Card,Refunded,N,,FALSE
 5246,Mila Ali ,mila.ali94 @mail.com,31/03/2024,Denim Jacket,Accessories,29.99,2,U.K.,TikTok,Apple Pay,Refunded,Yes,22,TRUE
-5247,Tomas Popescu  ,tomas.popescu49@mail.com,29-Mar-24,Trainers,Accessories,£60.00,3,U.K.,email,PayPal,Completed,FALSE,34,yes
-5248,Ben ONeil ,ben.oneil79@company.co,19-Feb-24,Running Shoes,Footwear,£29.99,2,uk,TikTok,Card,Pending,Y,34,no
+5247,Tomas Popescu  ,tomas.popescu49@mail.com,29-Mar-24,Trainers,Accessories,Â£60.00,3,U.K.,email,PayPal,Completed,FALSE,34,yes
+5248,Ben ONeil ,ben.oneil79@company.co,19-Feb-24,Running Shoes,Footwear,Â£29.99,2,uk,TikTok,Card,Pending,Y,34,no
 5249,Tom Smith,tom.smith59@mail.com,06/03/2024,Trainers,Footwear,N/A,0,United Kingdom,TikTok,Apple Pay,Refunded,No,41,FALSE
-5250,Marco Novak  ,marco.novak77@,2024.04.16,Trainers,Clothing,£29.99,3,U.K.,TikTok,Apple Pay,Refunded,TRUE,41,FALSE
+5250,Marco Novak  ,marco.novak77@,2024.04.16,Trainers,Clothing,Â£29.99,3,U.K.,TikTok,Apple Pay,Refunded,TRUE,41,FALSE
 5251,Hannah Nielsen,hannah.nielsen62@hotnail.com,2024.01.03,Hoodie,Accessories,55,1,U.K.,email,PayPal,Completed,TRUE,41,TRUE
-5252,Fatima Khan  ,fatima.khan10@,09-Feb-24,Hoodie,Clothing,£60.00,0,uk,Email,Card,Pending,Yes,,TRUE
+5252,Fatima Khan  ,fatima.khan10@,09-Feb-24,Hoodie,Clothing,Â£60.00,0,uk,Email,Card,Pending,Yes,,TRUE
 5253,Sofia Ali  ,sofia.ali42outlook.com,2024.01.20,Graphic Tee,Clothing,29.99,0,UK,Facebook,Apple Pay,Cancelled,N,41,TRUE
-5254,Sofia Hernandez,sofia.hernandez46@@hotmail.com,11-Mar-24,Denim Jacket,Footwear,£29.99,0,United Kingdom,TikTok,Apple Pay,Completed,Y,unknown,FALSE
+5254,Sofia Hernandez,sofia.hernandez46@@hotmail.com,11-Mar-24,Denim Jacket,Footwear,Â£29.99,0,United Kingdom,TikTok,Apple Pay,Completed,Y,unknown,FALSE
 5255,Layla Nowak,layla.nowak30@gmail.com,14/04/2024,Hoodie,Accessories,55,3,uk,instagram,Google Pay,Refunded,FALSE,18,yes
 5256,Jakub Kovacs,jakub.kovacs25@@company.co,2024.02.21,Denim Jacket,Footwear,29.99,1,United Kingdom,Instagram,Apple Pay,Refunded,FALSE,34,TRUE
 5257,Elena Muller,elena.muller66@hotmail.com,22/04/2024,Hoodie,Clothing,N/A,-1,uk,email,Card,Pending,No,41,no
-5258,Leila Thompson,leila.thompson95@,25/02/2024,Trainers,Footwear,£45,2,U.K.,instagram,Apple Pay,Refunded,TRUE,,no
+5258,Leila Thompson,leila.thompson95@,25/02/2024,Trainers,Footwear,Â£45,2,U.K.,instagram,Apple Pay,Refunded,TRUE,,no
 5259,Tom Khan ,tom.khan87@@gmail.com,04-Jan-24,Graphic Tee,Footwear,N/A,3,United Kingdom,instagram,Card,Completed,Yes,27,FALSE
 5260,Leila Ali ,leila.ali12company.co,14/01/2024,Hoodie,Clothing,29.99,2,United Kingdom,instagram,Apple Pay,Completed,Y,27,no
 5261,Oscar Johnson  ,oscar.johnson12 @gmail.com,2024.04.29,Running Shoes,Clothing,29.99,3,UK,Instagram,PayPal,Cancelled,No,34,no
 5262,Clara Brown  ,clara.brown20@,10/03/2024,Denim Jacket,Clothing,55,2,uk,TikTok,PayPal,Cancelled,No,22,TRUE
-5263,Noah Muller  ,noah.muller10@hotnail.com,26/04/2024,Denim Jacket,Footwear,£45,1,U.K.,TikTok,PayPal,Completed,Y,,yes
+5263,Noah Muller  ,noah.muller10@hotnail.com,26/04/2024,Denim Jacket,Footwear,Â£45,1,U.K.,TikTok,PayPal,Completed,Y,,yes
 5264,Theo ONeil ,theo.oneil17@@outlook.com,20/02/2024,Denim Jacket,Accessories,N/A,-1,uk,Email,Google Pay,Pending,Y,34,TRUE
-5265,Harper Martinez  ,harper.martinez59@@gmail.com,2024.03.04,Hoodie,Footwear,£60.00,2,uk,email,PayPal,Refunded,N,22,TRUE
+5265,Harper Martinez  ,harper.martinez59@@gmail.com,2024.03.04,Hoodie,Footwear,Â£60.00,2,uk,email,PayPal,Refunded,N,22,TRUE
 5266,Clara Silva  ,clara.silva56@gmal.com,01-Jan-24,Denim Jacket,Footwear,29.99,-1,United Kingdom,Email,Google Pay,Pending,No,22,yes
-5267,Oscar Novak ,oscar.novak62 @outlook.com,2024.03.08,Hoodie,Clothing,£45,2,United Kingdom,email,Apple Pay,Refunded,No,34,no
+5267,Oscar Novak ,oscar.novak62 @outlook.com,2024.03.08,Hoodie,Clothing,Â£45,2,United Kingdom,email,Apple Pay,Refunded,No,34,no
 5268,Anika Kovacs,anika.kovacs23mail.com,2024.01.31,Cap,Accessories,55,3,GB,instagram,Card,Pending,Yes,unknown,TRUE
 5269,Chloe Fischer,chloe.fischer64@company.co,2024.01.05,Running Shoes,Clothing,29.99,0,United Kingdom,email,Apple Pay,Refunded,N,18,yes
-5270,Fatima Popescu,fatima.popescu81@outlok.com,2024.01.15,Trainers,Accessories,£45,-1,U.K.,Facebook,PayPal,Pending,Yes,22,no
+5270,Fatima Popescu,fatima.popescu81@outlok.com,2024.01.15,Trainers,Accessories,Â£45,-1,U.K.,Facebook,PayPal,Pending,Yes,22,no
 5271,Fatima Esposito,fatima.esposito90@outlok.com,08/03/2024,Cap,Accessories,55,3,GB,Facebook,Google Pay,Pending,No,,yes
 5272,Nadia Ali,nadia.ali37@,28/04/2024,Graphic Tee,Clothing,29.99,3,United Kingdom,Email,Google Pay,Refunded,TRUE,34,TRUE
-5273,Jakub Ricci ,jakub.ricci80company.co,04-Jan-24,Running Shoes,Clothing,£45,3,GB,instagram,Apple Pay,Cancelled,TRUE,27,FALSE
-5274,Layla Kovacs ,layla.kovacs57@outlok.com,21-Apr-24,Running Shoes,Clothing,£29.99,1,United Kingdom,email,Apple Pay,Pending,Y,41,yes
-5275,Leila Johnson  ,leila.johnson67@@hotmail.com,29-Apr-24,Trainers,Accessories,£29.99,3,uk,Facebook,Card,Cancelled,TRUE,18,TRUE
+5273,Jakub Ricci ,jakub.ricci80company.co,04-Jan-24,Running Shoes,Clothing,Â£45,3,GB,instagram,Apple Pay,Cancelled,TRUE,27,FALSE
+5274,Layla Kovacs ,layla.kovacs57@outlok.com,21-Apr-24,Running Shoes,Clothing,Â£29.99,1,United Kingdom,email,Apple Pay,Pending,Y,41,yes
+5275,Leila Johnson  ,leila.johnson67@@hotmail.com,29-Apr-24,Trainers,Accessories,Â£29.99,3,uk,Facebook,Card,Cancelled,TRUE,18,TRUE
 5276,Lucas Muller ,lucas.muller71@@hotmail.com,12/02/2024,Denim Jacket,Footwear,N/A,-1,UK,email,PayPal,Pending,TRUE,unknown,FALSE
-5277,Leo Dubois  ,leo.dubois82mail.com,05/02/2024,Denim Jacket,Clothing,£29.99,2,uk,TikTok,Card,Pending,TRUE,unknown,yes
-5278,Fatima Brown ,fatima.brown54hotmail.com,2024.01.20,Trainers,Accessories,£45,-1,UK,Instagram,Apple Pay,Completed,N,unknown,TRUE
-5279,Tom Romano  ,tom.romano56@,28-Feb-24,Hoodie,Clothing,£45,2,GB,TikTok,Google Pay,Completed,FALSE,unknown,yes
+5277,Leo Dubois  ,leo.dubois82mail.com,05/02/2024,Denim Jacket,Clothing,Â£29.99,2,uk,TikTok,Card,Pending,TRUE,unknown,yes
+5278,Fatima Brown ,fatima.brown54hotmail.com,2024.01.20,Trainers,Accessories,Â£45,-1,UK,Instagram,Apple Pay,Completed,N,unknown,TRUE
+5279,Tom Romano  ,tom.romano56@,28-Feb-24,Hoodie,Clothing,Â£45,2,GB,TikTok,Google Pay,Completed,FALSE,unknown,yes
 5280,Khalid Silva ,khalid.silva12@gmail.com,16-Mar-24,Cap,Footwear,29.99,3,uk,Instagram,PayPal,Completed,N,,FALSE
 5281,Ravi Kim ,ravi.kim54@@mail.com,2024.04.14,Cap,Clothing,55,3,UK,email,Google Pay,Pending,N,22,FALSE
-5282,Leila Romano,leilaromano@company.co,2024.02.03,Cap,Footwear,£60.00,1,uk,email,Card,Completed,No,,yes
+5282,Leila Romano,leilaromano@company.co,2024.02.03,Cap,Footwear,Â£60.00,1,uk,email,Card,Completed,No,,yes
 5283,Emre Novak ,emrenovak@company.co,25/01/2024,Graphic Tee,Accessories,55,2,GB,Email,Google Pay,Cancelled,No,22,FALSE
 5284,Elena Dubois ,elena.dubois86@hotmail.com,2024.04.09,Running Shoes,Clothing,29.99,-1,UK,email,Google Pay,Pending,Yes,unknown,no
 5285,Lucas Popescu ,lucas.popescu13mail.com,15/02/2024,Hoodie,Clothing,N/A,3,GB,Email,Card,Refunded,N,18,TRUE
-5286,Freya Schmidt ,freya.schmidt10 @hotmail.com,30-Apr-24,Trainers,Accessories,£45,-1,United Kingdom,Instagram,PayPal,Refunded,N,22,FALSE
+5286,Freya Schmidt ,freya.schmidt10 @hotmail.com,30-Apr-24,Trainers,Accessories,Â£45,-1,United Kingdom,Instagram,PayPal,Refunded,N,22,FALSE
 5287,Callum Conti  ,callum.conti37 @gmail.com,2024.03.26,Graphic Tee,Accessories,55,2,United Kingdom,Facebook,Google Pay,Refunded,N,22,TRUE
 5288,Sara ONeil,saraoneil@company.co,01-Mar-24,Trainers,Footwear,N/A,1,United Kingdom,Email,PayPal,Pending,N,34,FALSE
-5289,Ava Papadopoulos  ,ava.papadopoulos28@@outlook.com,04-Jan-24,Graphic Tee,Clothing,£29.99,1,uk,Instagram,PayPal,Refunded,Y,18,FALSE
-5290,Daniel Johnson,daniel.johnson17hotmail.com,05-Feb-24,Cap,Accessories,£45,0,U.K.,TikTok,Apple Pay,Cancelled,FALSE,unknown,no
-5291,Priya Rossi ,priya.rossi92 @company.co,06/02/2024,Hoodie,Clothing,£29.99,3,U.K.,TikTok,Apple Pay,Pending,N,22,TRUE
+5289,Ava Papadopoulos  ,ava.papadopoulos28@@outlook.com,04-Jan-24,Graphic Tee,Clothing,Â£29.99,1,uk,Instagram,PayPal,Refunded,Y,18,FALSE
+5290,Daniel Johnson,daniel.johnson17hotmail.com,05-Feb-24,Cap,Accessories,Â£45,0,U.K.,TikTok,Apple Pay,Cancelled,FALSE,unknown,no
+5291,Priya Rossi ,priya.rossi92 @company.co,06/02/2024,Hoodie,Clothing,Â£29.99,3,U.K.,TikTok,Apple Pay,Pending,N,22,TRUE
 5292,Ava Patel,ava.patel33gmail.com,2024.03.29,Denim Jacket,Footwear,29.99,2,U.K.,Facebook,Apple Pay,Refunded,N,unknown,FALSE
-5293,Marco Patel ,marco.patel44@hotmail.com,2024.02.18,Trainers,Clothing,£45,-1,UK,Facebook,Card,Completed,Y,,TRUE
-5294,Daniel Hernandez ,daniel.hernandez39@,28-Jan-24,Running Shoes,Accessories,£60.00,1,UK,Instagram,Card,Completed,FALSE,41,yes
+5293,Marco Patel ,marco.patel44@hotmail.com,2024.02.18,Trainers,Clothing,Â£45,-1,UK,Facebook,Card,Completed,Y,,TRUE
+5294,Daniel Hernandez ,daniel.hernandez39@,28-Jan-24,Running Shoes,Accessories,Â£60.00,1,UK,Instagram,Card,Completed,FALSE,41,yes
 5295,Yusuf Smith ,yusuf.smith64 @company.co,29-Mar-24,Hoodie,Footwear,29.99,1,UK,TikTok,Card,Cancelled,TRUE,22,no
 5296,Anika Fischer  ,anika.fischer94 @gmail.com,2024.01.10,Hoodie,Clothing,55,1,United Kingdom,email,Google Pay,Refunded,TRUE,27,yes
 5297,Freya Ivanov  ,freya.ivanov33@hotnail.com,12/04/2024,Hoodie,Accessories,55,1,U.K.,Email,PayPal,Refunded,Y,unknown,FALSE
 5298,Chloe Sato,chloe.sato77@,25/04/2024,Denim Jacket,Clothing,N/A,0,United Kingdom,Instagram,Apple Pay,Cancelled,N,22,yes
-5299,Ibrahim Novak  ,ibrahim.novak85company.co,17/01/2024,Graphic Tee,Accessories,£60.00,-1,United Kingdom,Facebook,Apple Pay,Refunded,TRUE,22,no
+5299,Ibrahim Novak  ,ibrahim.novak85company.co,17/01/2024,Graphic Tee,Accessories,Â£60.00,-1,United Kingdom,Facebook,Apple Pay,Refunded,TRUE,22,no
 5300,Leila Wright ,leila.wright24@mail.com,2024.04.28,Running Shoes,Clothing,N/A,2,UK,TikTok,Card,Pending,N,34,yes
 5327,Daniel Romano,daniel.romano44gmail.com,2024.05.27,Running Shoes,Clothing,N/A,1,uk,email,Card,Refunded,No,34,TRUE
-5328,Harper Weber,harper.weber90@@mail.com,01/06/2024,Cap,Footwear,�45,0,GB,Instagram,PayPal,Cancelled,Y,unknown,FALSE
+5328,Harper Weber,harper.weber90@@mail.com,01/06/2024,Cap,Footwear,£45,0,GB,Instagram,PayPal,Cancelled,Y,unknown,FALSE
 5329,Aisha Conti,aisha.conti55gmail.com,2024.05.29,Hoodie,Accessories,29.99,3,U.K.,Facebook,Google Pay,Completed,TRUE,22,yes
 5330,Leo Novak,leo.novak33 @gmail.com,04/06/2024,Denim Jacket,Accessories,N/A,-1,uk,email,Card,Pending,N,,FALSE
-5331,Jonah Silva,jonah.silva90gmail.com,2024.05.26,Trainers,Clothing,�29.99,2,GB,Instagram,Apple Pay,Refunded,TRUE,27,no
+5331,Jonah Silva,jonah.silva90gmail.com,2024.05.26,Trainers,Clothing,£29.99,2,GB,Instagram,Apple Pay,Refunded,TRUE,27,no
 5332,Elena Conti,elena.conti44@@hotmail.com,30/05/2024,Graphic Tee,Footwear,29.99,1,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5333,Marco Weber,marco.weber55gmail.com,2024.06.02,Running Shoes,Accessories,N/A,0,U.K.,TikTok,Card,Cancelled,No,22,FALSE
-5334,Isla Silva,isla.silva90 @mail.com,2024.05.23,Cap,Clothing,�45,-1,GB,Instagram,PayPal,Refunded,TRUE,unknown,no
+5334,Isla Silva,isla.silva90 @mail.com,2024.05.23,Cap,Clothing,£45,-1,GB,Instagram,PayPal,Refunded,TRUE,unknown,no
 5335,Jonas Keller,jonas.keller44gmail.com,05/06/2024,Hoodie,Footwear,29.99,3,uk,Facebook,Google Pay,Pending,Y,27,TRUE
 5336,Ava Romano,ava.romano88@@gmail.com,28/05/2024,Denim Jacket,Accessories,N/A,2,United Kingdom,email,Card,Completed,No,34,FALSE
-5337,Daniel Petrov,daniel.petrov33gmail.com,2024.06.03,Trainers,Clothing,�29.99,1,uk,Instagram,PayPal,Refunded,TRUE,,TRUE
+5337,Daniel Petrov,daniel.petrov33gmail.com,2024.06.03,Trainers,Clothing,£29.99,1,uk,Instagram,PayPal,Refunded,TRUE,,TRUE
 5338,Harper Novak,harper.novak55 @gmail.com,2024.05.25,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Cancelled,N,unknown,FALSE
 5339,Aisha Weber,aisha.weber90gmail.com,06/06/2024,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Completed,TRUE,22,no
-5340,Leo Conti,leo.conti33@@mail.com,2024.05.27,Cap,Footwear,�55,3,U.K.,Instagram,PayPal,Pending,Y,unknown,TRUE
+5340,Leo Conti,leo.conti33@@mail.com,2024.05.27,Cap,Footwear,£55,3,U.K.,Instagram,PayPal,Pending,Y,unknown,TRUE
 5341,Jonah Romano,jonah.romano44gmail.com,29/05/2024,Hoodie,Accessories,29.99,2,GB,Facebook,Google Pay,Refunded,No,27,FALSE
 5342,Elena Weber,elena.weber55 @gmail.com,2024.06.01,Denim Jacket,Clothing,N/A,0,uk,email,Card,Cancelled,TRUE,,no
-5343,Marco Silva,marco.silva90gmail.com,2024.05.24,Trainers,Accessories,�29.99,-1,United Kingdom,Instagram,Apple Pay,Completed,Y,22,TRUE
+5343,Marco Silva,marco.silva90gmail.com,2024.05.24,Trainers,Accessories,£29.99,-1,United Kingdom,Instagram,Apple Pay,Completed,Y,22,TRUE
 5344,Isla Conti,isla.conti44@@hotmail.com,04/06/2024,Graphic Tee,Footwear,29.99,3,uk,Email,Google Pay,Pending,N,unknown,FALSE
 5345,Jonas Weber,jonas.weber33gmail.com,2024.05.26,Running Shoes,Clothing,N/A,1,GB,TikTok,Card,Refunded,TRUE,34,no
-5346,Ava Silva,ava.silva55 @mail.com,03/06/2024,Cap,Clothing,�45,0,uk,Instagram,PayPal,Cancelled,Y,unknown,TRUE
+5346,Ava Silva,ava.silva55 @mail.com,03/06/2024,Cap,Clothing,£45,0,uk,Instagram,PayPal,Cancelled,Y,unknown,TRUE
 5347,Daniel Novak,daniel.novak90gmail.com,2024.05.28,Hoodie,Footwear,29.99,2,U.K.,Facebook,Google Pay,Completed,No,27,FALSE
 5348,Harper Petrov,harper.petrov44@@gmail.com,30/05/2024,Denim Jacket,Accessories,N/A,-1,GB,email,Card,Pending,TRUE,,TRUE
-5349,Aisha Silva,aisha.silva33gmail.com,2024.06.02,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Refunded,N,22,no
+5349,Aisha Silva,aisha.silva33gmail.com,2024.06.02,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Refunded,N,22,no
 5350,Leo Weber,leo.weber90 @mail.com,2024.05.25,Graphic Tee,Footwear,29.99,1,United Kingdom,TikTok,Google Pay,Completed,TRUE,unknown,FALSE
 5351,Jonah Conti,jonah.conti55gmail.com,06/06/2024,Running Shoes,Accessories,N/A,0,uk,Email,Card,Cancelled,Y,27,TRUE
-5352,Elena Romano,elena.romano44@@gmail.com,2024.05.27,Cap,Footwear,�55,-1,GB,Instagram,PayPal,Refunded,No,unknown,no
+5352,Elena Romano,elena.romano44@@gmail.com,2024.05.27,Cap,Footwear,£55,-1,GB,Instagram,PayPal,Refunded,No,unknown,no
 5353,Marco Novak,marco.novak33gmail.com,01/06/2024,Hoodie,Accessories,29.99,3,uk,Facebook,Google Pay,Pending,TRUE,22,FALSE
 5354,Isla Weber,isla.weber90 @mail.com,2024.05.29,Denim Jacket,Clothing,N/A,1,U.K.,email,Card,Completed,N,,TRUE
-5355,Jonas Silva,jonas.silva44gmail.com,2024.06.03,Trainers,Accessories,�29.99,0,GB,Instagram,Apple Pay,Cancelled,TRUE,unknown,FALSE
+5355,Jonas Silva,jonas.silva44gmail.com,2024.06.03,Trainers,Accessories,£29.99,0,GB,Instagram,Apple Pay,Cancelled,TRUE,unknown,FALSE
 5356,Ava Conti,ava.conti55@@gmail.com,26/05/2024,Graphic Tee,Footwear,29.99,2,uk,Email,Google Pay,Refunded,Y,27,TRUE
 5357,Daniel Weber,daniel.weber90gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,United Kingdom,TikTok,Card,Completed,No,34,no
-5358,Harper Silva,harper.silva44 @mail.com,2024.05.28,Cap,Clothing,�45,3,uk,Instagram,PayPal,Pending,TRUE,unknown,FALSE
+5358,Harper Silva,harper.silva44 @mail.com,2024.05.28,Cap,Clothing,£45,3,uk,Instagram,PayPal,Pending,TRUE,unknown,FALSE
 5359,Aisha Novak,aisha.novak90gmail.com,02/06/2024,Hoodie,Footwear,29.99,1,GB,Facebook,Google Pay,Completed,N,22,TRUE
 5360,Leo Conti,leo.conti55@@hotmail.com,2024.05.30,Denim Jacket,Accessories,N/A,0,uk,email,Card,Refunded,TRUE,,no
-5361,Jonah Weber,jonah.weber44gmail.com,2024.06.01,Trainers,Clothing,�29.99,2,U.K.,Instagram,Apple Pay,Cancelled,Y,unknown,FALSE
+5361,Jonah Weber,jonah.weber44gmail.com,2024.06.01,Trainers,Clothing,£29.99,2,U.K.,Instagram,Apple Pay,Cancelled,Y,unknown,FALSE
 5362,Elena Silva,elena.silva33 @gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,3,GB,Email,Google Pay,Pending,No,27,TRUE
 5363,Marco Petrov,marco.petrov55gmail.com,2024.06.03,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Completed,TRUE,22,no
-5364,Isla Romano,isla.romano44@@mail.com,2024.05.29,Cap,Footwear,�55,1,United Kingdom,Instagram,PayPal,Refunded,N,unknown,FALSE
+5364,Isla Romano,isla.romano44@@mail.com,2024.05.29,Cap,Footwear,£55,1,United Kingdom,Instagram,PayPal,Refunded,N,unknown,FALSE
 5365,Jonas Weber,jonas.weber55gmail.com,04/06/2024,Hoodie,Accessories,29.99,0,uk,Facebook,Google Pay,Completed,TRUE,27,TRUE
 5366,Ava Silva,ava.silva90 @mail.com,2024.05.26,Denim Jacket,Clothing,N/A,2,GB,email,Card,Cancelled,Y,,FALSE
-5367,Daniel Conti,daniel.conti44gmail.com,2024.06.02,Trainers,Accessories,�29.99,-1,uk,Instagram,Apple Pay,Refunded,No,22,no
+5367,Daniel Conti,daniel.conti44gmail.com,2024.06.02,Trainers,Accessories,£29.99,-1,uk,Instagram,Apple Pay,Refunded,No,22,no
 5368,Harper Novak,harper.novak33@@gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,3,U.K.,Email,Google Pay,Pending,TRUE,unknown,TRUE
 5369,Aisha Weber,aisha.weber44gmail.com,2024.06.05,Running Shoes,Clothing,N/A,1,GB,TikTok,Card,Completed,N,27,FALSE
-5370,Leo Romano,leo.romano55 @gmail.com,2024.05.27,Cap,Clothing,�45,0,uk,Instagram,PayPal,Cancelled,TRUE,unknown,no
+5370,Leo Romano,leo.romano55 @gmail.com,2024.05.27,Cap,Clothing,£45,0,uk,Instagram,PayPal,Cancelled,TRUE,unknown,no
 5371,Jonah Silva,jonah.silva33gmail.com,03/06/2024,Hoodie,Footwear,29.99,2,United Kingdom,Facebook,Google Pay,Completed,Y,22,TRUE
 5372,Elena Conti,elena.conti90@@mail.com,2024.05.29,Denim Jacket,Accessories,N/A,-1,uk,email,Card,Refunded,TRUE,,FALSE
-5373,Marco Weber,marco.weber33gmail.com,2024.06.01,Trainers,Clothing,�29.99,3,GB,Instagram,Apple Pay,Pending,N,unknown,FALSE
+5373,Marco Weber,marco.weber33gmail.com,2024.06.01,Trainers,Clothing,£29.99,3,GB,Instagram,Apple Pay,Pending,N,unknown,FALSE
 5374,Isla Silva,isla.silva55 @gmail.com,2024.05.26,Graphic Tee,Footwear,29.99,1,uk,Email,Google Pay,Completed,TRUE,27,TRUE
 5375,Jonas Conti,jonas.conti90gmail.com,2024.06.04,Running Shoes,Accessories,N/A,0,U.K.,TikTok,Card,Cancelled,Y,unknown,no
 5376,Ava Novak,ava.novak44@@gmail.com,2024.05.29,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5377,Daniel Silva,daniel.silva90 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5378,Harper Conti,harper.conti33gmail.com,2024.05.27,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5378,Harper Conti,harper.conti33gmail.com,2024.05.27,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5379,Aisha Weber,aisha.weber55@@hotmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5380,Leo Romano,leo.romano90 @gmail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5381,Jonah Silva,jonah.silva44gmail.com,2024.06.03,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5381,Jonah Silva,jonah.silva44gmail.com,2024.06.03,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5382,Elena Conti,elena.conti55@@mail.com,2024.05.28,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5383,Marco Weber,marco.weber90 @gmail.com,01/06/2024,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5384,Isla Silva,isla.silva33gmail.com,2024.05.26,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5384,Isla Silva,isla.silva33gmail.com,2024.05.26,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5385,Jonas Conti,jonas.conti44@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5386,Ava Novak,ava.novak90 @mail.com,2024.05.29,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5387,Daniel Weber,daniel.weber33gmail.com,2024.06.02,Trainers,Accessories,�29.99,3,GB,Instagram,Apple Pay,Refunded,Y,27,no
+5387,Daniel Weber,daniel.weber33gmail.com,2024.06.02,Trainers,Accessories,£29.99,3,GB,Instagram,Apple Pay,Refunded,Y,27,no
 5388,Harper Silva,harper.silva55@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,uk,Facebook,Google Pay,Pending,No,unknown,FALSE
 5389,Aisha Conti,aisha.conti90 @mail.com,2024.06.03,Running Shoes,Clothing,N/A,-1,United Kingdom,Email,Card,Completed,TRUE,22,TRUE
-5390,Leo Weber,leo.weber44gmail.com,2024.05.25,Cap,Clothing,�45,2,uk,Instagram,PayPal,Cancelled,N,unknown,no
+5390,Leo Weber,leo.weber44gmail.com,2024.05.25,Cap,Clothing,£45,2,uk,Instagram,PayPal,Cancelled,N,unknown,no
 5391,Jonah Romano,jonah.romano55@@gmail.com,2024.06.01,Hoodie,Footwear,29.99,3,GB,TikTok,Google Pay,Completed,TRUE,27,TRUE
 5392,Elena Silva,elena.silva90 @gmail.com,2024.05.28,Denim Jacket,Accessories,N/A,0,uk,Email,Card,Refunded,Y,,FALSE
-5393,Marco Conti,marco.conti33gmail.com,2024.06.04,Trainers,Clothing,�29.99,1,U.K.,Instagram,Apple Pay,Pending,TRUE,22,no
+5393,Marco Conti,marco.conti33gmail.com,2024.06.04,Trainers,Clothing,£29.99,1,U.K.,Instagram,Apple Pay,Pending,TRUE,22,no
 5394,Isla Weber,isla.weber44@@hotmail.com,2024.05.26,Graphic Tee,Footwear,29.99,2,GB,Facebook,Google Pay,Completed,N,unknown,TRUE
 5395,Jonas Silva,jonas.silva90 @mail.com,2024.06.03,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,TRUE,27,FALSE
-5396,Ava Romano,ava.romano55gmail.com,2024.05.29,Cap,Footwear,�55,3,United Kingdom,Instagram,PayPal,Pending,Y,unknown,no
+5396,Ava Romano,ava.romano55gmail.com,2024.05.29,Cap,Footwear,£55,3,United Kingdom,Instagram,PayPal,Pending,Y,unknown,no
 5397,Daniel Novak,daniel.novak44@@gmail.com,2024.06.02,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,22,TRUE
 5398,Harper Petrov,harper.petrov90 @mail.com,2024.05.27,Denim Jacket,Clothing,N/A,0,GB,Instagram,Card,Completed,N,,FALSE
-5399,Aisha Silva,aisha.silva44gmail.com,2024.06.04,Trainers,Accessories,�29.99,2,uk,Facebook,PayPal,Cancelled,TRUE,unknown,no
+5399,Aisha Silva,aisha.silva44gmail.com,2024.06.04,Trainers,Accessories,£29.99,2,uk,Facebook,PayPal,Cancelled,TRUE,unknown,no
 5400,Leo Conti,leo.conti90@@gmail.com,2024.05.26,Graphic Tee,Footwear,29.99,3,U.K.,Email,Google Pay,Completed,Y,27,TRUE
 5401,Jonah Weber,jonah.weber33 @mail.com,2024.06.01,Running Shoes,Clothing,N/A,-1,uk,Instagram,Card,Refunded,No,unknown,FALSE
-5402,Elena Romano,elena.romano55gmail.com,2024.05.28,Cap,Clothing,�45,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5402,Elena Romano,elena.romano55gmail.com,2024.05.28,Cap,Clothing,£45,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5403,Marco Silva,marco.silva44@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,1,uk,Email,Google Pay,Completed,N,unknown,TRUE
 5404,Isla Conti,isla.conti90 @gmail.com,2024.05.27,Denim Jacket,Accessories,N/A,2,United Kingdom,Instagram,Card,Cancelled,TRUE,,FALSE
-5405,Jonas Weber,jonas.weber44gmail.com,2024.06.04,Trainers,Clothing,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5405,Jonas Weber,jonas.weber44gmail.com,2024.06.04,Trainers,Clothing,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5406,Ava Silva,ava.silva33@@mail.com,2024.05.25,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Pending,TRUE,unknown,FALSE
 5407,Daniel Conti,daniel.conti90gmail.com,2024.06.02,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Completed,N,22,TRUE
-5408,Harper Novak,harper.novak44 @mail.com,2024.05.29,Cap,Footwear,�55,2,U.K.,Email,PayPal,Cancelled,TRUE,unknown,no
+5408,Harper Novak,harper.novak44 @mail.com,2024.05.29,Cap,Footwear,£55,2,U.K.,Email,PayPal,Cancelled,TRUE,unknown,no
 5409,Aisha Weber,aisha.weber33gmail.com,2024.06.03,Hoodie,Accessories,29.99,3,GB,Instagram,Google Pay,Completed,Y,27,TRUE
 5410,Leo Romano,leo.romano44@@gmail.com,2024.05.26,Denim Jacket,Clothing,N/A,1,uk,Email,Card,Refunded,TRUE,,FALSE
-5411,Jonah Silva,jonah.silva55 @mail.com,2024.06.04,Trainers,Accessories,�29.99,0,United Kingdom,Instagram,Apple Pay,Pending,N,unknown,no
+5411,Jonah Silva,jonah.silva55 @mail.com,2024.06.04,Trainers,Accessories,£29.99,0,United Kingdom,Instagram,Apple Pay,Pending,N,unknown,no
 5412,Elena Conti,elena.conti33gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,uk,Facebook,Google Pay,Completed,TRUE,22,TRUE
 5413,Marco Weber,marco.weber44@@hotmail.com,2024.06.01,Running Shoes,Clothing,N/A,-1,GB,Email,Card,Cancelled,Y,unknown,FALSE
-5414,Isla Silva,isla.silva90 @gmail.com,2024.05.27,Cap,Clothing,�45,3,uk,Instagram,PayPal,Refunded,TRUE,27,no
+5414,Isla Silva,isla.silva90 @gmail.com,2024.05.27,Cap,Clothing,£45,3,uk,Instagram,PayPal,Refunded,TRUE,27,no
 5415,Jonas Conti,jonas.conti33gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5416,Ava Novak,ava.novak55@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5417,Daniel Weber,daniel.weber90gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5417,Daniel Weber,daniel.weber90gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5418,Harper Silva,harper.silva33 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5419,Aisha Conti,aisha.conti44gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5420,Leo Weber,leo.weber55@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5420,Leo Weber,leo.weber55@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5421,Jonah Romano,jonah.romano90 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5422,Elena Silva,elena.silva44gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5423,Marco Conti,marco.conti55@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5423,Marco Conti,marco.conti55@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5424,Isla Weber,isla.weber33 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5425,Jonas Silva,jonas.silva90gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5426,Ava Romano,ava.romano33@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5426,Ava Romano,ava.romano33@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5427,Daniel Novak,daniel.novak55gmail.com,2024.06.02,H,,,,,,,,,,
 5428,Harper Petrov,harper.petrov33 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5429,Aisha Silva,aisha.silva55gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5429,Aisha Silva,aisha.silva55gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5430,Leo Conti,leo.conti44@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5431,Jonah Weber,jonah.weber90 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5432,Elena Romano,elena.romano33gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5432,Elena Romano,elena.romano33gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5433,Marco Silva,marco.silva55@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5434,Isla Conti,isla.conti33 @gmail.com,2024.05.26,Denim Jacket,Clothing,N/A,0,United Kingdom,Instagram,Card,Completed,N,unknown,TRUE
-5435,Jonas Weber,jonas.weber55gmail.com,2024.06.03,Trainers,Accessories,�29.99,2,uk,Facebook,PayPal,Cancelled,TRUE,22,no
+5435,Jonas Weber,jonas.weber55gmail.com,2024.06.03,Trainers,Accessories,£29.99,2,uk,Facebook,PayPal,Cancelled,TRUE,22,no
 5436,Ava Silva,ava.silva44@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,GB,Email,Google Pay,Completed,Y,unknown,TRUE
 5437,Daniel Conti,daniel.conti33gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,No,27,FALSE
-5438,Harper Novak,harper.novak55 @mail.com,2024.05.27,Cap,Clothing,�45,1,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5438,Harper Novak,harper.novak55 @mail.com,2024.05.27,Cap,Clothing,£45,1,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5439,Aisha Weber,aisha.weber90gmail.com,2024.06.04,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,22,TRUE
 5440,Leo Romano,leo.romano33@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,3,GB,Facebook,Card,Refunded,TRUE,,FALSE
 5441,Isla Novak,isla.novak22@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5442,Jonas Petrov,jonas.petrov90 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5443,Ava Conti,ava.conti33gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5443,Ava Conti,ava.conti33gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5444,Daniel Weber,daniel.weber55@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5445,Harper Silva,harper.silva22 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5446,Aisha Romano,aisha.romano44gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5446,Aisha Romano,aisha.romano44gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5447,Leo Keller,leo.keller55@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5448,Jonah Novak,jonah.novak33 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5449,Elena Weber,elena.weber90gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5449,Elena Weber,elena.weber90gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5450,Marco Silva,marco.silva22@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5451,Isla Conti,isla.conti90 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5452,Jonas Weber,jonas.weber22gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5452,Jonas Weber,jonas.weber22gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5453,Ava Silva,ava.silva55@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5454,Daniel Conti,daniel.conti22gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5455,Harper Novak,harper.novak90 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5455,Harper Novak,harper.novak90 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5456,Aisha Weber,aisha.weber22gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5457,Leo Romano,leo.romano22@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5458,Jonah Silva,jonah.silva22 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5458,Jonah Silva,jonah.silva22 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5459,Elena Conti,elena.conti22gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5460,Marco Weber,marco.weber22@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5461,Isla Silva,isla.silva22 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5461,Isla Silva,isla.silva22 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5462,Jonas Conti,jonas.conti22gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5463,Ava Novak,ava.novak22@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5464,Daniel Weber,daniel.weber22gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5464,Daniel Weber,daniel.weber22gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5465,Harper Silva,harper.silva22 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5466,Aisha Conti,aisha.conti22gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5467,Leo Weber,leo.weber22@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5467,Leo Weber,leo.weber22@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5468,Jonah Romano,jonah.romano22 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5469,Elena Silva,elena.silva22gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5470,Marco Conti,marco.conti22@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5470,Marco Conti,marco.conti22@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5471,Isla Weber,isla.weber22 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5472,Jonas Silva,jonas.silva22gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5473,Ava Romano,ava.romano22@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5473,Ava Romano,ava.romano22@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5474,Daniel Novak,daniel.novak22gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5475,Harper Petrov,harper.petrov22 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5476,Aisha Silva,aisha.silva22gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5476,Aisha Silva,aisha.silva22gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5477,Leo Conti,leo.conti22@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5478,Jonah Weber,jonah.weber22 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5479,Elena Romano,elena.romano22gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5479,Elena Romano,elena.romano22gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5480,Marco Silva,marco.silva22@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5481,Isla Novak,isla.novak44@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5482,Jonas Petrov,jonas.petrov55 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5483,Ava Conti,ava.conti44gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5483,Ava Conti,ava.conti44gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5484,Daniel Weber,daniel.weber66@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5485,Harper Silva,harper.silva44 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5486,Aisha Romano,aisha.romano55gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5486,Aisha Romano,aisha.romano55gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5487,Leo Keller,leo.keller66@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5488,Jonah Novak,jonah.novak44 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5489,Elena Weber,elena.weber66gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5489,Elena Weber,elena.weber66gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5490,Marco Silva,marco.silva33@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5491,Isla Conti,isla.conti66 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5492,Jonas Weber,jonas.weber66gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5492,Jonas Weber,jonas.weber66gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5493,Ava Silva,ava.silva66@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5494,Daniel Conti,daniel.conti66gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5495,Harper Novak,harper.novak66 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5495,Harper Novak,harper.novak66 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5496,Aisha Weber,aisha.weber66gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5497,Leo Romano,leo.romano66@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5498,Jonah Silva,jonah.silva66 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5498,Jonah Silva,jonah.silva66 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5499,Elena Conti,elena.conti66gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5500,Marco Weber,marco.weber66@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5501,Isla Silva,isla.silva66 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5501,Isla Silva,isla.silva66 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5502,Jonas Conti,jonas.conti66gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5503,Ava Novak,ava.novak66@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5504,Daniel Weber,daniel.weber77gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5504,Daniel Weber,daniel.weber77gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5505,Harper Silva,harper.silva77 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5506,Aisha Conti,aisha.conti77gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5507,Leo Weber,leo.weber77@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5507,Leo Weber,leo.weber77@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5508,Jonah Romano,jonah.romano77 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5509,Elena Silva,elena.silva77gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5510,Marco Conti,marco.conti77@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5510,Marco Conti,marco.conti77@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5511,Isla Weber,isla.weber77 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5512,Jonas Silva,jonas.silva77gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5513,Ava Romano,ava.romano77@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5513,Ava Romano,ava.romano77@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5514,Daniel Novak,daniel.novak77gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5515,Harper Petrov,harper.petrov77 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5516,Aisha Silva,aisha.silva77gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5516,Aisha Silva,aisha.silva77gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5517,Leo Conti,leo.conti77@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5518,Jonah Weber,jonah.weber77 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5519,Elena Romano,elena.romano77gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5519,Elena Romano,elena.romano77gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5520,Marco Silva,marco.silva77@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5521,Isla Novak,isla.novak5521@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5522,Jonas Petrov,jonas.petrov5522 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5523,Ava Conti,ava.conti5523gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5523,Ava Conti,ava.conti5523gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5524,Daniel Weber,daniel.weber5524@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5525,Harper Silva,harper.silva5525 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5526,Aisha Romano,aisha.romano5526gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5526,Aisha Romano,aisha.romano5526gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5527,Leo Keller,leo.keller5527@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5528,Jonah Novak,jonah.novak5528 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5529,Elena Weber,elena.weber5529gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5529,Elena Weber,elena.weber5529gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5530,Marco Silva,marco.silva5530@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5531,Isla Conti,isla.conti5531 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5532,Jonas Weber,jonas.weber5532gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5532,Jonas Weber,jonas.weber5532gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5533,Ava Silva,ava.silva5533@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5534,Daniel Conti,daniel.conti5534gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5535,Harper Novak,harper.novak5535 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5535,Harper Novak,harper.novak5535 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5536,Aisha Weber,aisha.weber5536gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5537,Leo Romano,leo.romano5537@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5538,Jonah Silva,jonah.silva5538 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5538,Jonah Silva,jonah.silva5538 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5539,Elena Conti,elena.conti5539gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5540,Marco Weber,marco.weber5540@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5541,Isla Silva,isla.silva5541 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5541,Isla Silva,isla.silva5541 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5542,Jonas Conti,jonas.conti5542gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5543,Ava Novak,ava.novak5543@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5544,Daniel Weber,daniel.weber5544gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5544,Daniel Weber,daniel.weber5544gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5545,Harper Silva,harper.silva5545 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5546,Aisha Conti,aisha.conti5546gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5547,Leo Weber,leo.weber5547@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5547,Leo Weber,leo.weber5547@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5548,Jonah Romano,jonah.romano5548 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5549,Elena Silva,elena.silva5549gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5550,Marco Conti,marco.conti5550@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5550,Marco Conti,marco.conti5550@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5551,Isla Weber,isla.weber5551 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5552,Jonas Silva,jonas.silva5552gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5553,Ava Romano,ava.romano5553@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5553,Ava Romano,ava.romano5553@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5554,Daniel Novak,daniel.novak5554gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5555,Harper Petrov,harper.petrov5555 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5556,Aisha Silva,aisha.silva5556gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5556,Aisha Silva,aisha.silva5556gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5557,Leo Conti,leo.conti5557@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5558,Jonah Weber,jonah.weber5558 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5559,Elena Romano,elena.romano5559gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5559,Elena Romano,elena.romano5559gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5560,Marco Silva,marco.silva5560@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5561,Isla Novak,isla.novak5561@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5562,Jonas Petrov,jonas.petrov5562 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5563,Ava Conti,ava.conti5563gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5563,Ava Conti,ava.conti5563gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5564,Daniel Weber,daniel.weber5564@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5565,Harper Silva,harper.silva5565 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5566,Aisha Romano,aisha.romano5566gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5566,Aisha Romano,aisha.romano5566gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5567,Leo Keller,leo.keller5567@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5568,Jonah Novak,jonah.novak5568 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5569,Elena Weber,elena.weber5569gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5569,Elena Weber,elena.weber5569gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5570,Marco Silva,marco.silva5570@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5571,Isla Conti,isla.conti5571 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5572,Jonas Weber,jonas.weber5572gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5572,Jonas Weber,jonas.weber5572gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5573,Ava Silva,ava.silva5573@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5574,Daniel Conti,daniel.conti5574gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5575,Harper Novak,harper.novak5575 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5575,Harper Novak,harper.novak5575 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5576,Aisha Weber,aisha.weber5576gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5577,Leo Romano,leo.romano5577@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5578,Jonah Silva,jonah.silva5578 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5578,Jonah Silva,jonah.silva5578 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5579,Elena Conti,elena.conti5579gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5580,Marco Weber,marco.weber5580@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5581,Isla Silva,isla.silva5581 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5581,Isla Silva,isla.silva5581 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5582,Jonas Conti,jonas.conti5582gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5583,Ava Novak,ava.novak5583@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5584,Daniel Weber,daniel.weber5584gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5584,Daniel Weber,daniel.weber5584gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5585,Harper Silva,harper.silva5585 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5586,Aisha Conti,aisha.conti5586gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5587,Leo Weber,leo.weber5587@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5587,Leo Weber,leo.weber5587@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5588,Jonah Romano,jonah.romano5588 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5589,Elena Silva,elena.silva5589gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5590,Marco Conti,marco.conti5590@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5590,Marco Conti,marco.conti5590@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5591,Isla Weber,isla.weber5591 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5592,Jonas Silva,jonas.silva5592gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5593,Ava Romano,ava.romano5593@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5593,Ava Romano,ava.romano5593@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5594,Daniel Novak,daniel.novak5594gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5595,Harper Petrov,harper.petrov5595 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5596,Aisha Silva,aisha.silva5596gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5596,Aisha Silva,aisha.silva5596gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5597,Leo Conti,leo.conti5597@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5598,Jonah Weber,jonah.weber5598 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5599,Elena Romano,elena.romano5599gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5599,Elena Romano,elena.romano5599gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5600,Marco Silva,marco.silva5600@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5601,Isla Novak,isla.novak5601@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5602,Jonas Petrov,jonas.petrov5602 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5603,Ava Conti,ava.conti5603gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5603,Ava Conti,ava.conti5603gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5604,Daniel Weber,daniel.weber5604@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5605,Harper Silva,harper.silva5605 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5606,Aisha Romano,aisha.romano5606gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5606,Aisha Romano,aisha.romano5606gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5607,Leo Keller,leo.keller5607@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5608,Jonah Novak,jonah.novak5608 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5609,Elena Weber,elena.weber5609gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5609,Elena Weber,elena.weber5609gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5610,Marco Silva,marco.silva5610@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5611,Isla Conti,isla.conti5611 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5612,Jonas Weber,jonas.weber5612gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5612,Jonas Weber,jonas.weber5612gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5613,Ava Silva,ava.silva5613@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5614,Daniel Conti,daniel.conti5614gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5615,Harper Novak,harper.novak5615 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5615,Harper Novak,harper.novak5615 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5616,Aisha Weber,aisha.weber5616gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5617,Leo Romano,leo.romano5617@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5618,Jonah Silva,jonah.silva5618 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5618,Jonah Silva,jonah.silva5618 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5619,Elena Conti,elena.conti5619gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5620,Marco Weber,marco.weber5620@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5621,Isla Silva,isla.silva5621 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5621,Isla Silva,isla.silva5621 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5622,Jonas Conti,jonas.conti5622gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5623,Ava Novak,ava.novak5623@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5624,Daniel Weber,daniel.weber5624gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5624,Daniel Weber,daniel.weber5624gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5625,Harper Silva,harper.silva5625 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5626,Aisha Conti,aisha.conti5626gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5627,Leo Weber,leo.weber5627@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5627,Leo Weber,leo.weber5627@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5628,Jonah Romano,jonah.romano5628 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5629,Elena Silva,elena.silva5629gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5630,Marco Conti,marco.conti5630@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5630,Marco Conti,marco.conti5630@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5631,Isla Weber,isla.weber5631 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5632,Jonas Silva,jonas.silva5632gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5633,Ava Romano,ava.romano5633@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5633,Ava Romano,ava.romano5633@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5634,Daniel Novak,daniel.novak5634gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5635,Harper Petrov,harper.petrov5635 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5636,Aisha Silva,aisha.silva5636gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5636,Aisha Silva,aisha.silva5636gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5637,Leo Conti,leo.conti5637@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5638,Jonah Weber,jonah.weber5638 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5639,Elena Romano,elena.romano5639gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5639,Elena Romano,elena.romano5639gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5640,Marco Silva,marco.silva5640@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5641,Isla Novak,isla.novak5641@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5642,Jonas Petrov,jonas.petrov5642 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5643,Ava Conti,ava.conti5643gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5643,Ava Conti,ava.conti5643gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5644,Daniel Weber,daniel.weber5644@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5645,Harper Silva,harper.silva5645 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5646,Aisha Romano,aisha.romano5646gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5646,Aisha Romano,aisha.romano5646gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5647,Leo Keller,leo.keller5647@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5648,Jonah Novak,jonah.novak5648 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5649,Elena Weber,elena.weber5649gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5649,Elena Weber,elena.weber5649gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5650,Marco Silva,marco.silva5650@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5651,Isla Conti,isla.conti5651 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5652,Jonas Weber,jonas.weber5652gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5652,Jonas Weber,jonas.weber5652gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5653,Ava Silva,ava.silva5653@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5654,Daniel Conti,daniel.conti5654gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5655,Harper Novak,harper.novak5655 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5655,Harper Novak,harper.novak5655 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5656,Aisha Weber,aisha.weber5656gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5657,Leo Romano,leo.romano5657@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5658,Jonah Silva,jonah.silva5658 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5658,Jonah Silva,jonah.silva5658 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5659,Elena Conti,elena.conti5659gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5660,Marco Weber,marco.weber5660@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5661,Isla Silva,isla.silva5661 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5661,Isla Silva,isla.silva5661 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5662,Jonas Conti,jonas.conti5662gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5663,Ava Novak,ava.novak5663@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5664,Daniel Weber,daniel.weber5664gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5664,Daniel Weber,daniel.weber5664gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5665,Harper Silva,harper.silva5665 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5666,Aisha Conti,aisha.conti5666gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5667,Leo Weber,leo.weber5667@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5667,Leo Weber,leo.weber5667@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5668,Jonah Romano,jonah.romano5668 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5669,Elena Silva,elena.silva5669gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5670,Marco Conti,marco.conti5670@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5670,Marco Conti,marco.conti5670@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5671,Isla Weber,isla.weber5671 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5672,Jonas Silva,jonas.silva5672gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5673,Ava Romano,ava.romano5673@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5673,Ava Romano,ava.romano5673@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5674,Daniel Novak,daniel.novak5674gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5675,Harper Petrov,harper.petrov5675 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5676,Aisha Silva,aisha.silva5676gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5676,Aisha Silva,aisha.silva5676gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5677,Leo Conti,leo.conti5677@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5678,Jonah Weber,jonah.weber5678 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5679,Elena Romano,elena.romano5679gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5679,Elena Romano,elena.romano5679gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5680,Marco Silva,marco.silva5680@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5681,Isla Novak,isla.novak5681@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5682,Jonas Petrov,jonas.petrov5682 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5683,Ava Conti,ava.conti5683gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5683,Ava Conti,ava.conti5683gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5684,Daniel Weber,daniel.weber5684@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5685,Harper Silva,harper.silva5685 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5686,Aisha Romano,aisha.romano5686gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5686,Aisha Romano,aisha.romano5686gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5687,Leo Keller,leo.keller5687@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5688,Jonah Novak,jonah.novak5688 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5689,Elena Weber,elena.weber5689gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5689,Elena Weber,elena.weber5689gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5690,Marco Silva,marco.silva5690@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5691,Isla Conti,isla.conti5691 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5692,Jonas Weber,jonas.weber5692gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5692,Jonas Weber,jonas.weber5692gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5693,Ava Silva,ava.silva5693@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5694,Daniel Conti,daniel.conti5694gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5695,Harper Novak,harper.novak5695 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5695,Harper Novak,harper.novak5695 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5696,Aisha Weber,aisha.weber5696gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5697,Leo Romano,leo.romano5697@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5698,Jonah Silva,jonah.silva5698 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5698,Jonah Silva,jonah.silva5698 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5699,Elena Conti,elena.conti5699gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5700,Marco Weber,marco.weber5700@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5701,Isla Silva,isla.silva5701 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5701,Isla Silva,isla.silva5701 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5702,Jonas Conti,jonas.conti5702gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5703,Ava Novak,ava.novak5703@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5704,Daniel Weber,daniel.weber5704gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5704,Daniel Weber,daniel.weber5704gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5705,Harper Silva,harper.silva5705 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5706,Aisha Conti,aisha.conti5706gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5707,Leo Weber,leo.weber5707@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5707,Leo Weber,leo.weber5707@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5708,Jonah Romano,jonah.romano5708 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5709,Elena Silva,elena.silva5709gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5710,Marco Conti,marco.conti5710@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5710,Marco Conti,marco.conti5710@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5711,Isla Weber,isla.weber5711 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5712,Jonas Silva,jonas.silva5712gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5713,Ava Romano,ava.romano5713@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5713,Ava Romano,ava.romano5713@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5714,Daniel Novak,daniel.novak5714gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5715,Harper Petrov,harper.petrov5715 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5716,Aisha Silva,aisha.silva5716gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5716,Aisha Silva,aisha.silva5716gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5717,Leo Conti,leo.conti5717@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5718,Jonah Weber,jonah.weber5718 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5719,Elena Romano,elena.romano5719gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5719,Elena Romano,elena.romano5719gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5720,Marco Silva,marco.silva5720@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5721,Isla Novak,isla.novak5721@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5722,Jonas Petrov,jonas.petrov5722 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5723,Ava Conti,ava.conti5723gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5723,Ava Conti,ava.conti5723gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5724,Daniel Weber,daniel.weber5724@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5725,Harper Silva,harper.silva5725 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5726,Aisha Romano,aisha.romano5726gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5726,Aisha Romano,aisha.romano5726gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5727,Leo Keller,leo.keller5727@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5728,Jonah Novak,jonah.novak5728 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5729,Elena Weber,elena.weber5729gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5729,Elena Weber,elena.weber5729gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5730,Marco Silva,marco.silva5730@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5731,Isla Conti,isla.conti5731 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5732,Jonas Weber,jonas.weber5732gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5732,Jonas Weber,jonas.weber5732gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5733,Ava Silva,ava.silva5733@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5734,Daniel Conti,daniel.conti5734gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5735,Harper Novak,harper.novak5735 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5735,Harper Novak,harper.novak5735 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5736,Aisha Weber,aisha.weber5736gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5737,Leo Romano,leo.romano5737@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5738,Jonah Silva,jonah.silva5738 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5738,Jonah Silva,jonah.silva5738 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5739,Elena Conti,elena.conti5739gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5740,Marco Weber,marco.weber5740@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5741,Isla Silva,isla.silva5741 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5741,Isla Silva,isla.silva5741 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5742,Jonas Conti,jonas.conti5742gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5743,Ava Novak,ava.novak5743@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5744,Daniel Weber,daniel.weber5744gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5744,Daniel Weber,daniel.weber5744gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5745,Harper Silva,harper.silva5745 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5746,Aisha Conti,aisha.conti5746gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5747,Leo Weber,leo.weber5747@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5747,Leo Weber,leo.weber5747@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5748,Jonah Romano,jonah.romano5748 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5749,Elena Silva,elena.silva5749gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5750,Marco Conti,marco.conti5750@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5750,Marco Conti,marco.conti5750@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5751,Isla Weber,isla.weber5751 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5752,Jonas Silva,jonas.silva5752gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5753,Ava Romano,ava.romano5753@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5753,Ava Romano,ava.romano5753@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5754,Daniel Novak,daniel.novak5754gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5755,Harper Petrov,harper.petrov5755 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5756,Aisha Silva,aisha.silva5756gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5756,Aisha Silva,aisha.silva5756gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5757,Leo Conti,leo.conti5757@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5758,Jonah Weber,jonah.weber5758 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5759,Elena Romano,elena.romano5759gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5759,Elena Romano,elena.romano5759gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5760,Marco Silva,marco.silva5760@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5761,Isla Novak,isla.novak5761@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5762,Jonas Petrov,jonas.petrov5762 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5763,Ava Conti,ava.conti5763gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5763,Ava Conti,ava.conti5763gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5764,Daniel Weber,daniel.weber5764@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5765,Harper Silva,harper.silva5765 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5766,Aisha Romano,aisha.romano5766gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5766,Aisha Romano,aisha.romano5766gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5767,Leo Keller,leo.keller5767@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5768,Jonah Novak,jonah.novak5768 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5769,Elena Weber,elena.weber5769gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5769,Elena Weber,elena.weber5769gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5770,Marco Silva,marco.silva5770@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5771,Isla Conti,isla.conti5771 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5772,Jonas Weber,jonas.weber5772gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5772,Jonas Weber,jonas.weber5772gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5773,Ava Silva,ava.silva5773@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5774,Daniel Conti,daniel.conti5774gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5775,Harper Novak,harper.novak5775 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5775,Harper Novak,harper.novak5775 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5776,Aisha Weber,aisha.weber5776gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5777,Leo Romano,leo.romano5777@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5778,Jonah Silva,jonah.silva5778 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5778,Jonah Silva,jonah.silva5778 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5779,Elena Conti,elena.conti5779gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5780,Marco Weber,marco.weber5780@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5781,Isla Silva,isla.silva5781 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5781,Isla Silva,isla.silva5781 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5782,Jonas Conti,jonas.conti5782gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5783,Ava Novak,ava.novak5783@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5784,Daniel Weber,daniel.weber5784gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5784,Daniel Weber,daniel.weber5784gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5785,Harper Silva,harper.silva5785 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5786,Aisha Conti,aisha.conti5786gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5787,Leo Weber,leo.weber5787@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5787,Leo Weber,leo.weber5787@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5788,Jonah Romano,jonah.romano5788 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5789,Elena Silva,elena.silva5789gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5790,Marco Conti,marco.conti5790@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5790,Marco Conti,marco.conti5790@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5791,Isla Weber,isla.weber5791 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5792,Jonas Silva,jonas.silva5792gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5793,Ava Romano,ava.romano5793@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5793,Ava Romano,ava.romano5793@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5794,Daniel Novak,daniel.novak5794gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5795,Harper Petrov,harper.petrov5795 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5796,Aisha Silva,aisha.silva5796gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5796,Aisha Silva,aisha.silva5796gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5797,Leo Conti,leo.conti5797@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5798,Jonah Weber,jonah.weber5798 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5799,Elena Romano,elena.romano5799gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5799,Elena Romano,elena.romano5799gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5800,Marco Silva,marco.silva5800@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5801,Isla Novak,isla.novak5801@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5802,Jonas Petrov,jonas.petrov5802 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5803,Ava Conti,ava.conti5803gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5803,Ava Conti,ava.conti5803gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5804,Daniel Weber,daniel.weber5804@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5805,Harper Silva,harper.silva5805 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5806,Aisha Romano,aisha.romano5806gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5806,Aisha Romano,aisha.romano5806gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5807,Leo Keller,leo.keller5807@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5808,Jonah Novak,jonah.novak5808 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5809,Elena Weber,elena.weber5809gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5809,Elena Weber,elena.weber5809gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5810,Marco Silva,marco.silva5810@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5811,Isla Conti,isla.conti5811 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5812,Jonas Weber,jonas.weber5812gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5812,Jonas Weber,jonas.weber5812gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
 5813,Ava Silva,ava.silva5813@@mail.com,2024.05.26,Graphic Tee,Footwear,29.99,0,GB,Email,Google Pay,Completed,TRUE,unknown,FALSE
 5814,Daniel Conti,daniel.conti5814gmail.com,2024.06.02,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Completed,N,22,TRUE
-5815,Harper Novak,harper.novak5815 @mail.com,2024.05.29,Cap,Clothing,�45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
+5815,Harper Novak,harper.novak5815 @mail.com,2024.05.29,Cap,Clothing,£45,2,U.K.,Instagram,PayPal,Pending,TRUE,unknown,no
 5816,Aisha Weber,aisha.weber5816gmail.com,2024.06.04,Hoodie,Footwear,29.99,3,uk,Email,Google Pay,Completed,N,22,TRUE
 5817,Leo Romano,leo.romano5817@@gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5818,Jonah Silva,jonah.silva5818 @mail.com,2024.06.03,Trainers,Clothing,�29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
+5818,Jonah Silva,jonah.silva5818 @mail.com,2024.06.03,Trainers,Clothing,£29.99,0,uk,Instagram,Apple Pay,Pending,N,unknown,no
 5819,Elena Conti,elena.conti5819gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,2,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5820,Marco Weber,marco.weber5820@@hotmail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Cancelled,Y,unknown,FALSE
-5821,Isla Silva,isla.silva5821 @gmail.com,2024.05.27,Cap,Clothing,�45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
+5821,Isla Silva,isla.silva5821 @gmail.com,2024.05.27,Cap,Clothing,£45,3,GB,Instagram,PayPal,Refunded,TRUE,27,no
 5822,Jonas Conti,jonas.conti5822gmail.com,2024.06.03,Hoodie,Footwear,29.99,1,U.K.,Facebook,Google Pay,Completed,N,unknown,TRUE
 5823,Ava Novak,ava.novak5823@@mail.com,2024.05.25,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Pending,TRUE,22,FALSE
-5824,Daniel Weber,daniel.weber5824gmail.com,2024.06.02,Trainers,Clothing,�29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
+5824,Daniel Weber,daniel.weber5824gmail.com,2024.06.02,Trainers,Clothing,£29.99,2,uk,Instagram,Apple Pay,Refunded,Y,unknown,no
 5825,Harper Silva,harper.silva5825 @mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Email,Google Pay,Completed,TRUE,27,TRUE
 5826,Aisha Conti,aisha.conti5826gmail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,TikTok,Card,Cancelled,N,unknown,FALSE
-5827,Leo Weber,leo.weber5827@@gmail.com,2024.05.26,Cap,Footwear,�55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
+5827,Leo Weber,leo.weber5827@@gmail.com,2024.05.26,Cap,Footwear,£55,1,GB,Instagram,PayPal,Pending,TRUE,22,no
 5828,Jonah Romano,jonah.romano5828 @mail.com,2024.06.03,Hoodie,Accessories,29.99,2,uk,Email,Google Pay,Completed,Y,unknown,TRUE
 5829,Elena Silva,elena.silva5829gmail.com,2024.05.27,Denim Jacket,Clothing,N/A,3,U.K.,Facebook,Card,Refunded,TRUE,,FALSE
-5830,Marco Conti,marco.conti5830@@hotmail.com,2024.06.01,Trainers,Accessories,�29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
+5830,Marco Conti,marco.conti5830@@hotmail.com,2024.06.01,Trainers,Accessories,£29.99,0,uk,Instagram,Apple Pay,Cancelled,N,27,no
 5831,Isla Weber,isla.weber5831 @gmail.com,2024.05.28,Graphic Tee,Footwear,29.99,1,GB,Email,Google Pay,Completed,TRUE,unknown,TRUE
 5832,Jonas Silva,jonas.silva5832gmail.com,2024.06.04,Running Shoes,Clothing,N/A,-1,uk,TikTok,Card,Refunded,Y,22,FALSE
-5833,Ava Romano,ava.romano5833@@mail.com,2024.05.26,Cap,Clothing,�45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
+5833,Ava Romano,ava.romano5833@@mail.com,2024.05.26,Cap,Clothing,£45,3,United Kingdom,Instagram,PayPal,Pending,TRUE,unknown,no
 5834,Daniel Novak,daniel.novak5834gmail.com,2024.06.02,Hoodie,Footwear,29.99,2,uk,Email,Google Pay,Completed,N,27,TRUE
 5835,Harper Petrov,harper.petrov5835 @mail.com,2024.05.29,Denim Jacket,Accessories,N/A,1,GB,Facebook,Card,Refunded,TRUE,,FALSE
-5836,Aisha Silva,aisha.silva5836gmail.com,2024.06.03,Trainers,Clothing,�29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
+5836,Aisha Silva,aisha.silva5836gmail.com,2024.06.03,Trainers,Clothing,£29.99,3,uk,Instagram,Apple Pay,Completed,Y,unknown,TRUE
 5837,Leo Conti,leo.conti5837@@gmail.com,2024.05.27,Graphic Tee,Footwear,29.99,0,U.K.,Email,Google Pay,Cancelled,N,22,no
 5838,Jonah Weber,jonah.weber5838 @mail.com,2024.06.04,Running Shoes,Accessories,N/A,-1,uk,Instagram,Card,Pending,TRUE,unknown,FALSE
-5839,Elena Romano,elena.romano5839gmail.com,2024.05.28,Cap,Footwear,�55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
+5839,Elena Romano,elena.romano5839gmail.com,2024.05.28,Cap,Footwear,£55,2,GB,TikTok,PayPal,Completed,Y,27,TRUE
 5840,Marco Silva,marco.silva5840@@hotmail.com,2024.06.01,Hoodie,Accessories,29.99,1,uk,Email,Google Pay,Refunded,TRUE,,FALSE
 5841,Isla Novak,isla.novak5841@@gmail.com,2024.05.30,Graphic Tee,Footwear,29.99,1,uk,Instagram,Card,Completed,Y,22,TRUE
 5842,Jonas Petrov,jonas.petrov5842 @mail.com,04/06/2024,Running Shoes,Accessories,N/A,-1,GB,Email,PayPal,Cancelled,TRUE,unknown,FALSE
-5843,Ava Conti,ava.conti5843gmail.com,2024.05.28,Cap,Clothing,�45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
+5843,Ava Conti,ava.conti5843gmail.com,2024.05.28,Cap,Clothing,£45,3,U.K.,TikTok,Google Pay,Pending,N,27,no
 5844,Daniel Weber,daniel.weber5844@@hotmail.com,2024.06.03,Hoodie,Footwear,29.99,2,uk,Instagram,Apple Pay,Refunded,TRUE,,TRUE
 5845,Harper Silva,harper.silva5845 @gmail.com,2024.05.26,Denim Jacket,Accessories,N/A,0,GB,Email,Card,Completed,Y,unknown,FALSE
-5846,Aisha Romano,aisha.romano5846gmail.com,2024.06.02,Trainers,Clothing,�29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
+5846,Aisha Romano,aisha.romano5846gmail.com,2024.06.02,Trainers,Clothing,£29.99,1,uk,Facebook,PayPal,Cancelled,No,22,no
 5847,Leo Keller,leo.keller5847@@mail.com,2024.05.29,Graphic Tee,Footwear,29.99,3,United Kingdom,Instagram,Google Pay,Completed,TRUE,27,TRUE
 5848,Jonah Novak,jonah.novak5848 @mail.com,2024.06.01,Running Shoes,Accessories,N/A,-1,uk,Email,Card,Refunded,Y,unknown,FALSE
-5849,Elena Weber,elena.weber5849gmail.com,2024.05.27,Cap,Footwear,�55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
+5849,Elena Weber,elena.weber5849gmail.com,2024.05.27,Cap,Footwear,£55,0,GB,TikTok,PayPal,Pending,TRUE,22,no
 5850,Marco Silva,marco.silva5850@@hotmail.com,2024.06.04,Hoodie,Accessories,29.99,2,uk,Instagram,Google Pay,Completed,N,unknown,TRUE
 5851,Isla Conti,isla.conti5851 @gmail.com,2024.05.28,Denim Jacket,Clothing,N/A,1,U.K.,Email,Card,Cancelled,TRUE,,FALSE
-5852,Jonas Weber,jonas.weber5852gmail.com,2024.06.03,Trainers,Accessories,�29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no
+5852,Jonas Weber,jonas.weber5852gmail.com,2024.06.03,Trainers,Accessories,£29.99,3,uk,Facebook,PayPal,Refunded,Y,27,no

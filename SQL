@@ -43,52 +43,41 @@ CREATE OR REPLACE TABLE staging.orders_typed AS
 SELECT
   -- IDs and text fields
   CAST(order_id AS STRING) AS order_id,
-  TRIM(customer_name) AS customer_name,
-  TRIM(email) AS email,
+  TRIM(REGEXP_REPLACE(customer_name, r'\s+', ' ')) AS customer_name,
+  TRIM(REGEXP_REPLACE(email, r'\s+', ' ')) AS email,
 
   -- Multi-format date parser
   SAFE.PARSE_DATE(
     '%Y-%m-%d',
     CASE
-      -- yyyy.mm.dd
       WHEN REGEXP_CONTAINS(order_date, r'^\d{4}\.\d{2}\.\d{2}$')
         THEN REPLACE(order_date, '.', '-')
-
-      -- dd/mm/yyyy
       WHEN REGEXP_CONTAINS(order_date, r'^\d{2}/\d{2}/\d{4}$')
-        THEN FORMAT_DATE('%Y-%m-%d',
-              PARSE_DATE('%d/%m/%Y', order_date))
-
-      -- dd-MMM-yy
+        THEN FORMAT_DATE('%Y-%m-%d', PARSE_DATE('%d/%m/%Y', order_date))
       WHEN REGEXP_CONTAINS(order_date, r'^\d{2}-[A-Za-z]{3}-\d{2}$')
-        THEN FORMAT_DATE('%Y-%m-%d',
-              PARSE_DATE('%d-%b-%y', order_date))
-
+        THEN FORMAT_DATE('%Y-%m-%d', PARSE_DATE('%d-%b-%y', order_date))
       ELSE NULL
     END
   ) AS order_date,
 
-  -- Product & category (raw for now)
-  TRIM(product) AS product,
-  TRIM(category) AS category,
+  -- Product & category
+  TRIM(REGEXP_REPLACE(product, r'\s+', ' ')) AS product,
+  TRIM(REGEXP_REPLACE(category, r'\s+', ' ')) AS category,
 
-  -- Price: remove Â£, £, commas, spaces, any non-numeric characters
-  SAFE_CAST(
-    REGEXP_REPLACE(price, r'[^0-9\.]', '')
-    AS FLOAT64
-  ) AS price,
+  -- Price cleanup
+  SAFE_CAST(REGEXP_REPLACE(price, r'[^0-9\.]', '') AS FLOAT64) AS price,
 
   -- Numeric fields
   SAFE_CAST(quantity AS INT64) AS quantity,
   SAFE_CAST(customer_age AS INT64) AS customer_age,
 
   -- Text fields
-  TRIM(country) AS country,
-  TRIM(sales_channel) AS sales_channel,
-  TRIM(payment_type) AS payment_type,
-  TRIM(order_status) AS order_status,
+  TRIM(REGEXP_REPLACE(country, r'\s+', ' ')) AS country,
+  TRIM(REGEXP_REPLACE(sales_channel, r'\s+', ' ')) AS sales_channel,
+  TRIM(REGEXP_REPLACE(payment_type, r'\s+', ' ')) AS payment_type,
+  TRIM(REGEXP_REPLACE(order_status, r'\s+', ' ')) AS order_status,
 
-  -- Boolean-like fields (apply LOWER() to the raw string)
+  -- Boolean-like fields
   CASE
     WHEN LOWER(CAST(discount_applied AS STRING)) IN ('yes','true','1') THEN TRUE
     WHEN LOWER(CAST(discount_applied AS STRING)) IN ('no','false','0') THEN FALSE
@@ -106,30 +95,8 @@ SELECT
 
 FROM staging.orders_standardized;
 
-04_clean_text.sql
 
-CREATE OR REPLACE TABLE staging.orders_text_clean AS
-SELECT
-  order_id,
-  TRIM(REGEXP_REPLACE(customer_name, r'\s+', ' ')) AS customer_name,
-  TRIM(REGEXP_REPLACE(email, r'\s+', ' ')) AS email,
-  order_date,
-  TRIM(REGEXP_REPLACE(product, r'\s+', ' ')) AS product,
-  TRIM(REGEXP_REPLACE(category, r'\s+', ' ')) AS category,
-  price,
-  quantity,
-  TRIM(REGEXP_REPLACE(country, r'\s+', ' ')) AS country,
-  TRIM(REGEXP_REPLACE(sales_channel, r'\s+', ' ')) AS sales_channel,
-  TRIM(REGEXP_REPLACE(payment_type, r'\s+', ' ')) AS payment_type,
-  TRIM(REGEXP_REPLACE(order_status, r'\s+', ' ')) AS order_status,
-  TRIM(REGEXP_REPLACE(discount_applied, r'\s+', ' ')) AS discount_applied,
-  customer_age,
-  TRIM(REGEXP_REPLACE(newsletter_signup, r'\s+', ' ')) AS newsletter_signup,
-  source_sheet
-FROM staging.orders_typed;
-
-
-05_clean_emails.sql
+04_clean_emails.sql
 
 CREATE OR REPLACE TABLE staging.orders_email_clean AS
 SELECT
@@ -140,7 +107,7 @@ SELECT
 FROM staging.orders_typed;
 
 
-06_clean_country.sql
+05_clean_country.sql
 
 CREATE OR REPLACE TABLE staging.orders_country_clean AS
 SELECT
@@ -152,7 +119,7 @@ SELECT
 FROM staging.orders_email_clean;
 
 
-07_clean_status.sql
+06_clean_status.sql
 
 CREATE OR REPLACE TABLE staging.orders_status_clean AS
 SELECT
@@ -161,7 +128,7 @@ SELECT
   INITCAP(sales_channel) AS sales_channel_clean
 FROM staging.orders_country_clean;
 
-08_remove_duplicates.sql
+07_remove_duplicates.sql
 
 CREATE OR REPLACE TABLE cleaned.orders_final AS
 SELECT DISTINCT
@@ -184,7 +151,7 @@ SELECT DISTINCT
   source_sheet
 FROM staging.orders_status_clean;
 
-09_product_category_fix.sql
+08_product_category_fix.sql
 
 CREATE OR REPLACE TABLE staging.orders_product_category_clean AS
 SELECT
@@ -203,7 +170,7 @@ SELECT
   INITCAP(TRIM(product)) AS product_clean
 FROM staging.orders_text_clean;
 
-10_export.sql
+09_export.sql
 
 EXPORT DATA OPTIONS(
   uri='gs://your-bucket-name/cleaned_orders.csv',

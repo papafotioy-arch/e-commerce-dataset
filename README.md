@@ -76,7 +76,7 @@ Monthly revenue shows a stable baseline followed by dramatic spikes:
 - **April:** £18,600  
 - **May:** £27,000  
 
-These surges indicate successful campaigns or product pushes but also highlight volatility.
+These surges indicate successful campaigns or product pushes, but also highlight volatility.
 
 ### **Sales by Category**
 - **Clothing:** £28,000  
@@ -108,8 +108,8 @@ Order completion is low, revealing operational bottlenecks:
 - **Email & TikTok:** Moderate and stable  
 
 ### **Cancellation Rate by Payment Type**
-- Highest: **PayPal**  
-- Then: **Card**, **Apple Pay**  
+- Highest 26,3%: **PayPal**  
+- Following with small difference: **Card**, **Apple Pay**  
 - Lowest: **Google Pay** (<10%)  
 
 Units sold follow the same pattern as revenue, with a dramatic increase in May and June.
@@ -118,9 +118,10 @@ Units sold follow the same pattern as revenue, with a dramatic increase in May a
 
 ## **Customer & Data Quality Insights**
 
-The customer base is young, with an **average age of 26**. However, customer data quality is a major concern:
+The customer base appears relatively young, with an **average age of 26**. However, age-related insights should be interpreted cautiously because only 50% of customers provided their age.
+Customer data quality is a major concern:
 
-- **Email Validity:** 35%  
+- **Email Validity:** 35% (critical issue) 
 - **Newsletter Signup:** 38%  
 
 Using a weighted scoring model (70% email validity, 30% newsletter signup):
@@ -131,10 +132,15 @@ This severely limits CRM, remarketing, and lifecycle automation potential.
 
 ---
 
+A GitHub‑ready version using **bold titles** looks like this, keeping the tone concise and analytical while matching the formatting style you’re using across the README:
+
 ## **Business Impact**
+
+The dataset covers a short operational period, which limits the ability to make confident long‑term predictions or assess seasonality. Observed patterns may not fully represent typical business performance.
 
 The combined analysis highlights several strategic risks and opportunities:
 
+- **Data volatility** makes it difficult to establish stable performance baselines.  
 - **Revenue is campaign‑dependent**, with large spikes masking underlying instability.  
 - **Operational inefficiencies** (refunds, cancellations, pending orders) are eroding margin and customer trust.  
 - **Facebook acquisition is unprofitable**, driving high refund losses.  
@@ -151,7 +157,8 @@ The combined analysis highlights several strategic risks and opportunities:
 - Strengthen email capture and validation at checkout.  
 - Introduce channel‑specific refund and cancellation monitoring.  
 - Expand dataset to include repeat behavior and customer lifetime value (CLV).  
-- Add forecasting models for sales and operational load.  
+- Add forecasting models for sales and operational load.
+- further analysis required to dive deeper into customer behavior, marketing spend, and conversion rate (CVR)
 
 ---
 

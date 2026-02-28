@@ -158,13 +158,13 @@ The combined analysis highlights several strategic risks and opportunities:
 ## **Repository Structure**
 
 ```
-e-commerce-dataset/
+ecommerce-project/
 │
 ├── data/
 │   ├── power_query_relay_dataset1.csv
 │   ├── power_query_relay_dataset2.csv
 │   ├── power_query_relay_dataset3.csv
-│   └── cleaned_data.csv
+│   └── cleaned_orders.csv
 │
 ├── sql/
 │   ├── 01_combine_tables.sql
@@ -174,14 +174,13 @@ e-commerce-dataset/
 │   ├── 05_clean_country.sql
 │   ├── 06_clean_status.sql
 │   ├── 07_product_category_fix.sql
-│   ├── 08_remove_duplicates.sql
-│   └── 09_export
+│   └── 08_remove_duplicates.sql
 │
-├── docs/
-│   ├── README.md
-│   ├── data_dictionary.md
-│   └── cleaning_log.md
+├── DAX measures.md/
+│  
 │
-└── notebooks/
-    └── bigquery_analysis.ipynb
+├── powerbi/
+│   └── ecommerce_dashboard.pbix
+│
+└── README.md
 ```

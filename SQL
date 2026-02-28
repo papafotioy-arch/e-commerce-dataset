@@ -1,5 +1,6 @@
 SQL QUERIES
 
+
 01_combine_tables.sql
 
 CREATE OR REPLACE TABLE staging.orders_raw AS
@@ -11,6 +12,7 @@ FROM relay_dataset.relay_dataset2
 UNION ALL
 SELECT *, 'sheet3' AS source_sheet 
 FROM relay_dataset.relay_dataset3;
+
 
 02_standardize_columns.sql
 
@@ -34,21 +36,20 @@ SELECT
   source_sheet
 FROM staging.orders_raw;
 
+
 03_clean_types.sql
 
 CREATE OR REPLACE TABLE staging.orders_typed AS
 SELECT
-  order_id,
-  customer_name,
-  email,
+  CAST(order_id AS STRING) AS order_id,
+  TRIM(customer_name) AS customer_name,
+  TRIM(email) AS email,
 
-  -- Fix date formats (handles yyyy-mm-dd and yyyy.mm.dd)
   SAFE.PARSE_DATE('%Y-%m-%d', REPLACE(order_date, '.', '-')) AS order_date,
 
-  product,
-  category,
+  TRIM(product) AS product,
+  TRIM(category) AS category,
 
-  -- Remove Â£, £, commas, spaces, and any non-numeric characters
   SAFE_CAST(
     REGEXP_REPLACE(price, r'[^0-9\.]', '')
     AS FLOAT64
@@ -57,18 +58,28 @@ SELECT
   SAFE_CAST(quantity AS INT64) AS quantity,
   SAFE_CAST(customer_age AS INT64) AS customer_age,
 
-  country,
-  sales_channel,
-  payment_type,
-  order_status,
-  discount_applied,
-  newsletter_signup,
+  TRIM(country) AS country,
+  TRIM(sales_channel) AS sales_channel,
+  TRIM(payment_type) AS payment_type,
+  TRIM(order_status) AS order_status,
+
+  CASE
+    WHEN LOWER(discount_applied) IN ('yes','true','1') THEN TRUE
+    WHEN LOWER(discount_applied) IN ('no','false','0') THEN FALSE
+    ELSE NULL
+  END AS discount_applied,
+
+  CASE
+    WHEN LOWER(newsletter_signup) IN ('yes','true','1') THEN TRUE
+    WHEN LOWER(newsletter_signup) IN ('no','false','0') THEN FALSE
+    ELSE NULL
+  END AS newsletter_signup,
+
   source_sheet
 FROM staging.orders_standardized;
 
 
 04_clean_text.sql
-
 
 CREATE OR REPLACE TABLE staging.orders_text_clean AS
 SELECT
@@ -101,6 +112,7 @@ SELECT
   REGEXP_CONTAINS(email, r'^[^@]+@[^@]+\.[^@]+$') AS email_valid
 FROM staging.orders_typed;
 
+
 06_clean_country.sql
 
 CREATE OR REPLACE TABLE staging.orders_country_clean AS
@@ -121,7 +133,6 @@ SELECT
   INITCAP(order_status) AS order_status_clean,
   INITCAP(sales_channel) AS sales_channel_clean
 FROM staging.orders_country_clean;
-
 
 08_remove_duplicates.sql
 
@@ -164,7 +175,6 @@ SELECT
 
   INITCAP(TRIM(product)) AS product_clean
 FROM staging.orders_text_clean;
-
 
 10_export.sql
 
